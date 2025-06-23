@@ -92,22 +92,37 @@
 // console.log(myGreeting);
 
 // strings vs numbers here string always wins
-let name = 42
-let greeting = "Hi, my name is "
-let myGreeting = greeting + name
-// console.log(myGreeting)
+// let name = 42
+// let greeting = "Hi, my name is "
+// let myGreeting = greeting + name
+// // console.log(myGreeting)
 
-let points = 4
-let bonusPoints = "10" //output 410 because string wins
+// let points = 4
+// let bonusPoints = "10" //output 410 because string wins
 
-let totalPoints = points + bonusPoints
-console.log(totalPoints);
-
-
-//challenge thinking and answering
+// let totalPoints = points + bonusPoints
+// console.log(totalPoints);
 
 
-console.log(4 + 5) // 9
-console.log("2" + "4") // 24
-console.log("5" + 1) // 51
-console.log(100 + "100") //100100
+// //challenge thinking and answering
+
+
+// console.log(4 + 5) // 9
+// console.log("2" + "4") // 24
+// console.log("5" + 1) // 51
+// console.log(100 + "100") //100100
+
+// ✅ Render a welcome message challenge
+
+// Grab the welcome-el paragraph and store it in a variable called welcomeEl
+
+// Create two variables (name & greeting) that contains your name
+// and the greeting we want to render on the page
+
+// Render the welcome message using welcomeEl.innerText
+
+let welcomeEl = document.getElementById("welcome-el")
+let name = "khan"
+let greetings = "Welcome Back "
+
+welcomeEl.innerText = greetings + name;
