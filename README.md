@@ -71,7 +71,7 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 🔄 Reset count to 0                                  | ✅ Done      |
 | 📌 Recap of concepts                                 | ✅ Done      |
 | 🎯 Variables practice                                | ✅ Done      |
-| 🔗 Concatenate strings                               | ⬜ Not yet   |
+| 🔗 Concatenate strings                               | ✅ Done      |
 | ➕ Incrementing & decrementing                       | ⬜ Not yet   |
 | 🔠 Strings & numbers practice                        | ⬜ Not yet   |
 | 🚨 Rendering error message                           | ⬜ Not yet   |
