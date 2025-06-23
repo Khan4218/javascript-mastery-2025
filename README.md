@@ -77,6 +77,35 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 🚨 Rendering error message                           | ✅ Done      |
 | 🧮 Calculator challenge                              | ✅ Done      |
 
+---
+
+## 🏀 Solo Project – Basketball Counter App
+
+This is a solo project built as part of my Scrimba JavaScript learning path. It’s a simple basketball score counter app that allows you to track the Home and Guest team scores with +1, +2, and +3 buttons, as well as a reset button.
+
+### 🔗 Live Demo
+
+👉 [Click here to view the live app](https://akbar-solo-project-bb-counter-app.netlify.app/)
+
+### 📁 Project Structure
+solo-project/
+├── index.html      # main HTML file
+├── solop.css       # styles
+└── solop.js        # JavaScript logic
+
+### 💡 Features
+
+- Add 1, 2, or 3 points for Home and Guest
+- Live score updating
+- Reset button to start a new game
+- Background image support
+- Team logos for Home and Guest teams
+
+### 📸 Preview
+
+![Screenshot of Basketball Counter App](./01.My%20passengerCounterApp/Preview-images/preview-image.png)
+
+---
 ## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
 
 | 🧬 Topic                                                       | ✅ Status   |
