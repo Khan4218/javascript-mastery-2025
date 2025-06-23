@@ -69,8 +69,8 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 💾 Create save feature                               | ✅ Done      |
 | 🐞 Debugging online                                  | ✅ Done      |
 | 🔄 Reset count to 0                                  | ✅ Done      |
-| 📌 Recap of concepts                                 | ⬜ Not yet   |
-| 🎯 Variables practice                                | ⬜ Not yet   |
+| 📌 Recap of concepts                                 | ✅ Done      |
+| 🎯 Variables practice                                | ✅ Done      |
 | 🔗 Concatenate strings                               | ⬜ Not yet   |
 | ➕ Incrementing & decrementing                       | ⬜ Not yet   |
 | 🔠 Strings & numbers practice                        | ⬜ Not yet   |
@@ -171,7 +171,7 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 📝 Write a basic template string                                    | ⬜ Not yet   |
 | 🔄 Make template string dynamic                                     | ⬜ Not yet   |
 | 📜 Multi-line template strings                                      | ⬜ Not yet   |
-| 🛠️ Refactor app with template strings                               | ⬜ Not yet   |
+| 🛠️ Refactor app with template strings                               | ⬜ Not yet  |
 | 🎨 Style `<ul>` and `<li>` list                                     | ⬜ Not yet   |
 | 🚀 Prepare for deployment                                           | ⬜ Not yet   |
 | 🌐 Deploy Chrome Extension                                          | ⬜ Not yet   |
