@@ -3,9 +3,18 @@
 
 // 2. Create a variable, sum, and set it to the sum of the two cards
 
-let firstCard = 5;
-let secondCard = 8;
+let firstCard = 1;
+let secondCard = 20;
 
 let sum = firstCard + secondCard;
 
-console.log(sum);
+if(sum < 21){
+   console.log("Do you want to draw a new card? 😀");
+   
+}else if(sum === 21) {
+   console.log("woooh ! You got the BlackJack 🏆");
+   
+}else  {
+console.log("You are out of the game 😭");
+
+}
