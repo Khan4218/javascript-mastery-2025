@@ -18,20 +18,20 @@
 // ✅ using functions to write less code
 // Setting up the the race 🏎 🏎 🏎
 
-function countdown() {
-    console.log(5)
-    console.log(4)
-    console.log(3)
-    console.log(2)
-    console.log(1)
-}
+// function countdown() {
+//     console.log(5)
+//     console.log(4)
+//     console.log(3)
+//     console.log(2)
+//     console.log(1)
+// }
 
-countdown();
+// countdown();
 
-// GO! 🏁
-// Players are running the race 🏎 💨
-// Race is finished! 🍾
+// // GO! 🏁
+// // Players are running the race 🏎 💨
+// // Race is finished! 🍾
 
-// Get ready for a new race 🏎 🏎 🏎
+// // Get ready for a new race 🏎 🏎 🏎
 
-countdown();  // called it again to use less code 
+// countdown();  // called it again to use less code 

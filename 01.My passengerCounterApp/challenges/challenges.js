@@ -20,10 +20,21 @@
 // Decrease it down to 25, and then finally increase it to 70
 // Console.log the value after each step
 
-let bonusPoints = 50;
-bonusPoints = bonusPoints + 50;
-console.log(bonusPoints);
-bonusPoints = bonusPoints - 25;
-console.log(bonusPoints);
-bonusPoints = bonusPoints + 70;
-console.log(bonusPoints);
+// let bonusPoints = 50;
+// bonusPoints = bonusPoints + 50;
+// console.log(bonusPoints);
+// bonusPoints = bonusPoints - 25;
+// console.log(bonusPoints);
+// bonusPoints = bonusPoints + 70;
+// console.log(bonusPoints);
+
+// Create a function (you decide the name) that logs out the number 42 to the console
+// Call/invoke the function
+
+function displayNumber() {
+    console.log(42)
+}
+
+displayNumber();
+  
+  
