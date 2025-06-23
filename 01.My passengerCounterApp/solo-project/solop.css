@@ -1,0 +1,36 @@
+body {
+font-family: sans-serif; 
+text-align: center; 
+background-image: url("images/basketball.jpg"); /* path to your image */
+background-size: cover; /* makes the image cover entire screen */
+background-position: center;
+background-repeat: no-repeat;
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+
+}
+.scoreboard { 
+display: flex; 
+justify-content: center; 
+gap: 2rem; 
+margin-top: 2rem; 
+}
+.team {
+ border: 1px solid #ccc;
+ padding: 1rem; 
+ border-radius: 8px; 
+}
+button { 
+    margin: 0.5rem; 
+    padding: 0.5rem 1rem; 
+    font-size: 1rem; 
+}
+
+.home-score-cs{
+  color: darkblue;
+}
+
+.guest-score-cs{
+    color: red;
+}

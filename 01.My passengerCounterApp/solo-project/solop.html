@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🏀 Basketball Scoreboard</title>
+  <link rel="stylesheet" href="solop.css" />
+</head>
+<body>
+<h1>🏀 Basketball Scoreboard</h1>
+  <div class="scoreboard">
+    <div class="team">
+      <h2>Home</h2>
+      <div id="home-score" class="home-score-cs">0</div>
+      <button onclick="addHome(1)">+1</button>
+      <button onclick="addHome(2)">+2</button>
+      <button onclick="addHome(3)">+3</button>
+    </div>
+    <div class="team">
+      <h2>Guest</h2>
+      <div id="guest-score" class="guest-score-cs">0</div>
+      <button onclick="addGuest(1)">+1</button>
+      <button onclick="addGuest(2)">+2</button>
+      <button onclick="addGuest(3)">+3</button>
+    </div>
+  </div>
+  <button onclick="resetScores()">Reset</button>
+  <script src="solop.js"></script>
+</body>
+</html>
