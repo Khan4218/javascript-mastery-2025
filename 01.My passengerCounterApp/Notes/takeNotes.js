@@ -21,3 +21,5 @@ totalLapTime();
 
 console.log(totalTime); //reference error totalTime is not defined
 // we cant use the let variable outside the block scope because let variables are block scoped 
+
+// strings vs numbers here string always wins

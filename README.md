@@ -47,7 +47,7 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | Functions & Reusability                    |  ✅     |
 | DOM Basics & innerText                     |  ✅    |
 | Buttons & Event Listeners                  |  ✅    |
-| Strings vs Numbers                         | ⬜     |
+| Strings vs Numbers                         |  ✅    |
 | Save Feature & Debugging                   | ⬜     |
 | Calculator Challenge                       | ⬜     |
 | Blackjack Game – Setup & Logic             | ⬜     |
