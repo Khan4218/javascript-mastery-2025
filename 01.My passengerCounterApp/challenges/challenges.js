@@ -38,16 +38,31 @@
 // displayNumber();
   
   
-let lap1 = 34
-let lap2 = 33
-let lap3 = 36
+// let lap1 = 34
+// let lap2 = 33
+// let lap3 = 36
 
-// Create a function that logs out the sum of all the lap times
+// // Create a function that logs out the sum of all the lap times
 
-function totalLapTime() {
-    let totalTime = lap1 + lap2 + lap3
-   console.log(totalTime);                
+// function totalLapTime() {
+//     let totalTime = lap1 + lap2 + lap3
+//    console.log(totalTime);                
     
-}
+// }
 
-totalLapTime();
+// totalLapTime();
+
+
+let lapsCompleted = 0
+
+// Create a function that increments the lapsCompleted variable with one
+// Run it three times
+
+function totalIncrement() {
+ lapsCompleted =  lapsCompleted + 1
+  
+}
+totalIncrement();
+totalIncrement();
+totalIncrement();
+console.log(lapsCompleted)
