@@ -65,3 +65,29 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | Chrome API – Save Current Tab              | ⬜     |
 | Final App Refactor & Deployment            | ⬜     |
 | Recap + Outro                              | ⬜     |
+
+# Passenger Counter App
+
+This project is part of my advanced JavaScript mastery journey. Although I've already built modern web apps with React and TypeScript, I'm revisiting core JavaScript fundamentals to strengthen my foundation.
+
+🔗 Live Demo: [akba-passenger-counter-app.netlify.app](https://akba-passenger-counter-app.netlify.app)
+
+## 💡 Purpose
+
+Even small projects like this one reinforce key DOM concepts like:
+
+- `document.getElementById`
+- `innerText` manipulation
+- Event listeners and click handling
+
+## 🧠 What's Different This Time
+
+- Writing clean, modular code
+- Naming variables meaningfully
+- Focusing on reusability and clarity
+- Practicing Git commits with intention
+
+## 🚀 Built With
+- HTML
+- CSS
+- JavaScript (Vanilla)
