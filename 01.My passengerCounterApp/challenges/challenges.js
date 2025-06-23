@@ -121,18 +121,18 @@
 
 // Render the welcome message using welcomeEl.innerText
 
-let welcomeEl = document.getElementById("welcome-el")
-let name = "khan" 
-let greetings = "Welcome Back " 
+// let welcomeEl = document.getElementById("welcome-el")
+// let name = "khan" 
+// let greetings = "Welcome Back " 
 
-welcomeEl.innerText = greetings + name;
+// welcomeEl.innerText = greetings + name;
 
-// Add an emoji to the end! 👋
-// WRITE YOUR CODE BELOW HERE
-// HINT: count = count + 1
+// // Add an emoji to the end! 👋
+// // WRITE YOUR CODE BELOW HERE
+// // HINT: count = count + 1
 
-// welcomeEl.innerText = welcomeEl.innerText + " " + "👋" instead of this we use +=
-welcomeEl.innerText +=  " " + "👋"
+// // welcomeEl.innerText = welcomeEl.innerText + " " + "👋" instead of this we use +=
+// welcomeEl.innerText +=  " " + "👋"
 
 
 
