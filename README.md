@@ -103,7 +103,7 @@ solo-project/
 
 ### 📸 Preview
 
-![Screenshot of Basketball Counter App](./01.My%20passengerCounterApp/Preview-images/preview-image.png)
+![Screenshot of Basketball Counter App](./01-passenger-counter-app/Preview-images/preview-image.png)
 
 ---
 ## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
