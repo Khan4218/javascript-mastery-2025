@@ -53,16 +53,16 @@
 // totalLapTime();
 
 
-let lapsCompleted = 0
+// let lapsCompleted = 0
 
-// Create a function that increments the lapsCompleted variable with one
-// Run it three times
+// // Create a function that increments the lapsCompleted variable with one
+// // Run it three times
 
-function totalIncrement() {
- lapsCompleted =  lapsCompleted + 1
+// function totalIncrement() {
+//  lapsCompleted =  lapsCompleted + 1
   
-}
-totalIncrement();
-totalIncrement();
-totalIncrement();
-console.log(lapsCompleted)
+// }
+// totalIncrement();
+// totalIncrement();
+// totalIncrement();
+// console.log(lapsCompleted)
