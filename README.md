@@ -111,7 +111,7 @@ solo-project/
 | 🧬 Topic                                                       | ✅ Status   |
 |----------------------------------------------------------------|-------------|
 | 🃏 Build Blackjack game                                        | ⬜ Not yet   |
-| 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ⬜ Not yet   |
+| 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ✅Done      |
 | 🧾 If...else conditionals                                      | ⬜ Not yet   |
 | 🔁 `if...else` statement                                       | ⬜ Not yet   |
 | 🔀 `if/else if/else` statement                                 | ⬜ Not yet   |
