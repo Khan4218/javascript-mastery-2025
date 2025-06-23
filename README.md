@@ -75,7 +75,7 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | ➕ Incrementing & decrementing                       | ✅ Done      |
 | 🔠 Strings & numbers practice                        | ✅ Done      |
 | 🚨 Rendering error message                           | ✅ Done      |
-| 🧮 Calculator challenge                              | ⬜ Not yet   |
+| 🧮 Calculator challenge                              | ✅ Done      |
 
 ## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
 
