@@ -42,11 +42,11 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | Section                                     | Done? |
 |--------------------------------------------|-------|
 | 🔹 Intro                                    | ✅     |
-| Passenger Counter App                      | ⬜     |
-| Variables & Math Operations                | ⬜     |
-| Functions & Reusability                    | ⬜     |
-| DOM Basics & innerText                     | ⬜     |
-| Buttons & Event Listeners                  | ⬜     |
+| Passenger Counter App                      |  ✅     |
+| Variables & Math Operations                |  ✅     |
+| Functions & Reusability                    |  ✅     |
+| DOM Basics & innerText                     |  ✅    |
+| Buttons & Event Listeners                  |  ✅    |
 | Strings vs Numbers                         | ⬜     |
 | Save Feature & Debugging                   | ⬜     |
 | Calculator Challenge                       | ⬜     |
