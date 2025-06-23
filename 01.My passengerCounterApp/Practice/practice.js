@@ -49,9 +49,50 @@
 
 // Concatenate the two variables into a third variable called fullName
 
-// Log fullName to the console
+// // Log fullName to the console
 
-let firstName = "Akbar"
-let lastname = "Khan"
-let fullName = firstName + " " + lastname;
-console.log(fullName);
+// let firstName = "Akbar"
+// let lastname = "Khan"
+// let fullName = firstName + " " + lastname;
+// console.log(fullName);
+
+
+// let name = "Linda"
+// let greeting = "Hi there"
+
+// // Create a function that logs out "Hi there, Linda!" when called
+
+
+// function greet() {
+//     let greetings = greeting + ", " + name + "!";
+//     console.log(greetings);
+    
+// }
+
+// greet()
+
+
+let myPoints = 3
+
+// Create two functions, add3Points() and remove1Point(), and have them
+// add/remove points to/from the myPoints variable
+function add3Points() {
+  myPoints += 3
+}
+add3Points();
+add3Points();
+add3Points();
+
+
+function removePoint() {
+   myPoints -= 1 
+}
+
+removePoint();
+removePoint();
+
+
+
+// Call the functions to that the line below logs out 10
+console.log(myPoints)
+

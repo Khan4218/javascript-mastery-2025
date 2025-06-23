@@ -72,7 +72,7 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 📌 Recap of concepts                                 | ✅ Done      |
 | 🎯 Variables practice                                | ✅ Done      |
 | 🔗 Concatenate strings                               | ✅ Done      |
-| ➕ Incrementing & decrementing                       | ⬜ Not yet   |
+| ➕ Incrementing & decrementing                       | ✅ Done      |
 | 🔠 Strings & numbers practice                        | ⬜ Not yet   |
 | 🚨 Rendering error message                           | ⬜ Not yet   |
 | 🧮 Calculator challenge                              | ⬜ Not yet   |
