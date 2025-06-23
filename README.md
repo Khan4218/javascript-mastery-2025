@@ -37,35 +37,168 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 - 🌍 Portfolio: [Mir Akbar Ali khan Portfolio](https://mir-akbar-portfolio-react-v2.netlify.app/)
 
 ---
-## 📈 Progress Tracker: freeCodeCamp JavaScript Full Course
+📈 JavaScript Mastery Progress Tracker (freeCodeCamp + Scrimba Hybrid)
+## 🧠 JavaScript Mastery Tracker – Section 1
 
-| Section                                     | Done? |
-|--------------------------------------------|-------|
-| 🔹 Intro                                    | ✅     |
-| Passenger Counter App                      |  ✅     |
-| Variables & Math Operations                |  ✅     |
-| Functions & Reusability                    |  ✅     |
-| DOM Basics & innerText                     |  ✅    |
-| Buttons & Event Listeners                  |  ✅    |
-| Strings vs Numbers                         |  ✅    |
-| Save Feature & Debugging                   | ⬜     |
-| Calculator Challenge                       | ⬜     |
-| Blackjack Game – Setup & Logic             | ⬜     |
-| Conditionals & Boolean Logic               | ⬜     |
-| Arrays – Basics & Dynamic Data             | ⬜     |
-| Loops & Rendering                          | ⬜     |
-| Math.random & Dice Logic                   | ⬜     |
-| Functions Returning Values                 | ⬜     |
-| Logical Operators                          | ⬜     |
-| Objects Intro & Methods                    | ⬜     |
-| Rock, Paper, Scissors Game                 | ⬜     |
-| Chrome Extension Project                   | ⬜     |
-| innerHTML vs DOM Methods                   | ⬜     |
-| localStorage – Save Leads                  | ⬜     |
-| Chrome API – Save Current Tab              | ⬜     |
-| Final App Refactor & Deployment            | ⬜     |
-| Recap + Outro                              | ⬜     |
+| 🧬 Topic                                             | ✅ Status   |
+|------------------------------------------------------|-------------|
+| 🔹 Intro                                             | ✅ Done      |
+| 👥 Passenger Counter App                             | ✅ Done      |
+| 🔧 Setting up file                                   | ✅ Done      |
+| 🧮 Create variable                                   | ✅ Done      |
+| ➕ Mathematical operations                           | ✅ Done      |
+| 🔁 Reassigning & incrementing                        | ✅ Done      |
+| 🔘 Adding button                                     | ✅ Done      |
+| 🖱️ `onclick` event listener                          | ✅ Done      |
+| 🔂 Using functions to write less code                | ✅ Done      |
+| 🧪 First function                                    | ✅ Done      |
+| 🧮 Function that logs sum                            | ✅ Done      |
+| ➕ Function that increments                          | ✅ Done      |
+| 🖲️ Increment on clicks                               | ✅ Done      |
+| 📟 Display count                                     | ✅ Done      |
+| 🧑‍🔧 Document Object Model (DOM)                       | ✅ Done      |
+| ✍️ Display count using `innerText`                   | ✅ Done      |
+| 💾 Create save button                                | ✅ Done      |
+| 🔤 What is a string?                                 | ✅ Done      |
+| 📝 First string variable                             | ✅ Done      |
+| 💬 Log greeting to console                           | ✅ Done      |
+| 🔢 Strings vs. Numbers                               | ✅ Done      |
+| 🎉 Render welcome message                            | ✅ Done      |
+| 🧵 Improve message using string concatenation        | ✅ Done      |
+| ➕ Use `+=` for count                                | ✅ Done      |
+| 💾 Create save feature                               | ✅ Done      |
+| 🐞 Debugging online                                  | ✅ Done      |
+| 🔄 Reset count to 0                                  | ✅ Done      |
+| 📌 Recap of concepts                                 | ⬜ Not yet   |
+| 🎯 Variables practice                                | ⬜ Not yet   |
+| 🔗 Concatenate strings                               | ⬜ Not yet   |
+| ➕ Incrementing & decrementing                       | ⬜ Not yet   |
+| 🔠 Strings & numbers practice                        | ⬜ Not yet   |
+| 🚨 Rendering error message                           | ⬜ Not yet   |
+| 🧮 Calculator challenge                              | ⬜ Not yet   |
 
+## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
+
+| 🧬 Topic                                                       | ✅ Status   |
+|----------------------------------------------------------------|-------------|
+| 🃏 Build Blackjack game                                        | ⬜ Not yet   |
+| 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ⬜ Not yet   |
+| 🧾 If...else conditionals                                      | ⬜ Not yet   |
+| 🔁 `if...else` statement                                       | ⬜ Not yet   |
+| 🔀 `if/else if/else` statement                                 | ⬜ Not yet   |
+| 🧠 `hasBlackJack` variable                                     | ⬜ Not yet   |
+| ❤️ `isAlive` variable                                          | ⬜ Not yet   |
+| 💭 Practice boolean conditions                                 | ⬜ Not yet   |
+| 📝 Add message variable                                        | ⬜ Not yet   |
+| 🎨 Link stylesheet                                             | ⬜ Not yet   |
+| 🧼 Add basic styling                                           | ⬜ Not yet   |
+| ▶️ Make start button work                                      | ⬜ Not yet   |
+| 📢 Display game message                                        | ⬜ Not yet   |
+| ➕ Display sum                                                 | ⬜ Not yet   |
+| 🃍 Display cards                                                | ⬜ Not yet   |
+| ➕ New card button                                             | ⬜ Not yet   |
+| 🔄 Add to sum when newCard is clicked                          | ⬜ Not yet   |
+| ✏️ Rename `startGame` function                                 | ⬜ Not yet   |
+| 🧮 Solve card problem using array                              | ⬜ Not yet   |
+| 📚 Arrays introduction                                         | ⬜ Not yet   |
+| 🔢 Array indexes                                               | ⬜ Not yet   |
+| 🧬 Arrays with multiple data types                             | ⬜ Not yet   |
+| ➕ Adding & removing items from arrays                         | ⬜ Not yet   |
+| 🃏 Create cards array                                          | ⬜ Not yet   |
+| 🆕 Push new card to array                                      | ⬜ Not yet   |
+| 🔢 Counting elements                                           | ⬜ Not yet   |
+| 🔁 Loops                                                       | ⬜ Not yet   |
+| 🔁 For loops & arrays                                          | ⬜ Not yet   |
+| 🔁 First array-based for loop                                  | ⬜ Not yet   |
+| 🔁 For loops, arrays, & DOM                                    | ⬜ Not yet   |
+| 🖼️ Use loop to render cards                                    | ⬜ Not yet   |
+| ❌ Avoid hard-coded values                                     | ⬜ Not yet   |
+| 🔄 Returning values from functions                             | ⬜ Not yet   |
+| 🧮 Function to set card values                                 | ⬜ Not yet   |
+| 🎲 Generate random numbers with `Math.random()`                | ⬜ Not yet   |
+| 🎲 `Math.random() * 6`                                         | ⬜ Not yet   |
+| 📉 Flooring number with `Math.floor()`                         | ⬜ Not yet   |
+| 🎲 Create dice function                                        | ⬜ Not yet   |
+| ✅ Complete dice logic                                         | ⬜ Not yet   |
+| 🔧 Make `getRandomCard()` work                                 | ⬜ Not yet   |
+| 🔢 `getRandomNumber` function                                  | ⬜ Not yet   |
+| 🔁 Assign values in `startGame`                                | ⬜ Not yet   |
+| 🐞 Fix card feature                                            | ⬜ Not yet   |
+| 🧠 Logical AND operator                                        | ⬜ Not yet   |
+| 🔗 Logical operators overview                                  | ⬜ Not yet   |
+| 🧠 Logical OR operator                                         | ⬜ Not yet   |
+| 🚫 Only trigger `newCard()` if allowed                         | ⬜ Not yet   |
+| 🧠 Object sneak peek                                           | ⬜ Not yet   |
+| 🧱 Create first object                                         | ⬜ Not yet   |
+| 🧍 Store player data                                           | ⬜ Not yet   |
+| ⚙️ Methods on object                                           | ⬜ Not yet   |
+| 🔁 Recap of core concepts                                      | ⬜ Not yet   |
+| 🧩 Objects & functions                                         | ⬜ Not yet   |
+| 🧾 `if else` practice                                          | ⬜ Not yet   |
+| 🔁 Loops & arrays                                              | ⬜ Not yet   |
+| 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ⬜ Not yet   |
+| 🧠 Logical operators usage                                     | ⬜ Not yet   |
+| ✊ Rock, Paper, Scissors game                                  | ⬜ Not yet   |
+| 🍎 Sorting fruits mini app                                     | ⬜ Not yet   |
+
+💻 Chrome Extension Project
+
+## 💻 JavaScript Mastery Tracker – Section 3: Chrome Extension Project
+
+| 🧬 Topic                                                            | ✅ Status   |
+|----------------------------------------------------------------------|-------------|
+| 🧩 Build Chrome Extension                                           | ⬜ Notyet   |
+| 🔘 Add button & input tag                                           | ⬜ Not yet   |
+| 🎨 Style button & input tag                                         | ⬜ Not yet   |
+| 🖱️ Make input button work with `onclick`                            | ⬜ Notyet   |
+| 🔁 Refactor to `addEventListener`                                   | ⬜ Not yet   |
+| ➕ Use `addEventListener()`                                         | ⬜ Not yet   |
+| 🔄 Further event handling refactoring                               | ⬜ Not yet   |
+| 📥 Create `myLeads` array & `inputEl` variable                      | ⬜ Not yet   |
+| 🧠 Use of `let` & `const`                                           | ⬜ Not yet   |
+| ➕ Push input value to `myLeads`                                    | ⬜ Not yet   |
+| 🧾 Use `for` loop to log leads                                      | ⬜ Not yet   |
+| 📄 Create unordered list                                            | ⬜ Not yet   |
+| 🖼️ Render leads in unordered list                                   | ⬜ Notyet   |
+| 🧪 Practice with `innerHTML`                                        | ⬜ Not yet   |
+| 🧪 More `innerHTML` usage                                           | ⬜ Not yet   |
+| 🧱 Use `createElement()` & `append()` instead of `innerHTML`        | ⬜ Not yet   |
+| ⚙️ Improve app performance                                          | ⬜ Not yet   |
+| 🔁 Create reusable `render()` function                              | ⬜ Not yet   |
+| ❌ Clear input field                                                | ⬜ Not yet   |
+| 🔗 Add `<a>` tag for saved links                                    | ⬜ Not yet   |
+| 🧵 Template strings introduction                                    | ⬜ Not yet   |
+| 📝 Write a basic template string                                    | ⬜ Not yet   |
+| 🔄 Make template string dynamic                                     | ⬜ Not yet   |
+| 📜 Multi-line template strings                                      | ⬜ Not yet   |
+| 🛠️ Refactor app with template strings                               | ⬜ Not yet   |
+| 🎨 Style `<ul>` and `<li>` list                                     | ⬜ Not yet   |
+| 🚀 Prepare for deployment                                           | ⬜ Not yet   |
+| 🌐 Deploy Chrome Extension                                          | ⬜ Not yet   |
+| 💾 What is `localStorage`?                                          | ⬜ Not yet   |
+| 💾 Use `localStorage` to save values                                | ⬜ Not yet   |
+| 🧪 Store arrays in `localStorage`                                   | ⬜ Not yet   |
+| 💾 Save leads to `localStorage`                                     | ⬜ Not yet   |
+| 📥 Retrieve leads from `localStorage`                               | ⬜ Not yet   |
+| ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |
+| 🔍 Truthy vs Falsy expressions overview                             | ⬜ Not yet   |
+| ❓ Guessing truthy/falsy values                                     | ⬜ Not yet   |
+| 🧹 Add delete button                                                | ⬜ Not yet   |
+| 🧼 Make delete button functional                                    | ⬜ Not yet   |
+| 🧠 Understand how function parameters improve code                  | ⬜ Not yet   |
+| 📝 Define function with parameters                                  | ⬜ Not yet   |
+| 🧠 Use functions with multiple parameters                           | ⬜ Not yet   |
+| 🔢 Pass numbers as function arguments                               | ⬜ Not yet   |
+| ⚙️ Parameters vs Arguments explained                                | ⬜ Not yet   |
+| 🧩 Pass arrays as parameters                                        | ⬜ Not yet   |
+| 🔁 Refactor `renderLeads()` with parameter                          | ⬜ Not yet   |
+| 🔘 Create `tabBtn` for saving current tab                           | ⬜ Not yet   |
+| 🌐 Save current tab’s URL                                           | ⬜ Not yet   |
+| 🧪 Use Chrome API to access tab data                                | ⬜ Not yet   |
+| 🚀 Deploy final extension version                                   | ⬜ Not yet   |
+| 🧾 Final recap of Chrome extension concepts                         | ⬜ Not yet   |
+| 🧠 Practice & polish extension functionality                        | ⬜ Not yet   |
+| 🎬 Outro – JavaScript project wrap-up                               | ⬜ Not yet   |
 # Passenger Counter App
 
 This project is part of my advanced JavaScript mastery journey. Although I've already built modern web apps with React and TypeScript, I'm revisiting core JavaScript fundamentals to strengthen my foundation.

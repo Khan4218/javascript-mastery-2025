@@ -42,3 +42,6 @@
 // let userName = "khan"
 
 // console.log(userName);
+
+
+// 1️⃣ Part 1 Practice Time
