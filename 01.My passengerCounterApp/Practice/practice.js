@@ -35,3 +35,10 @@
 // // Get ready for a new race 🏎 🏎 🏎
 
 // countdown();  // called it again to use less code 
+
+
+// ✅strings
+
+// let userName = "khan"
+
+// console.log(userName);

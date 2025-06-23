@@ -66,3 +66,16 @@
 // totalIncrement();
 // totalIncrement();
 // console.log(lapsCompleted)
+
+//✅ strings
+let userName = "khan"
+// Create a variable, message, that stores the string: "You have tree new notifications"
+let message = "You have tree new notifications"
+// console.log(userName + ", " + message + "!");
+
+
+// Create a variable, messageToUser, that contains the message we have logged
+
+let messageToUser = userName + ", " + message + "!"
+console.log(messageToUser);
+
