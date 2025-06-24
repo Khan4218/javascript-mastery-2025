@@ -32,9 +32,15 @@ messageEl.textContent = message;
 console.log(message);
 }
 
+
 function newCard() {
-  console.log("New Card");
-  
+    
+  // 1. Create a card variable, and hard code its value to a number (2-11)
+     let card = 6;
+  // 2. Add the new card to the sum variable
+     sum += card
+  // 3. Call startGame()
+     startGame();
 }
 
 
