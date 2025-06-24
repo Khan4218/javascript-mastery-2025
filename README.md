@@ -113,7 +113,7 @@ solo-project/
 | 🃏 Build Blackjack game                                        | ⬜ Not yet   |
 | 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ✅Done      |
 | 🧾 If...else conditionals                                      | ✅Done       |
-| 🔁 `if...else` statement                                       | ⬜ Not yet   |
+| 🔁 `if...else` statement                                       |  ✅Done      |
 | 🔀 `if/else if/else` statement                                 | ⬜ Not yet   |
 | 🧠 `hasBlackJack` variable                                     | ⬜ Not yet   |
 | ❤️ `isAlive` variable                                          | ⬜ Not yet   |
