@@ -125,7 +125,7 @@ solo-project/
 | ▶️ Make start button work                                      | ✅Done       |
 | 📢 Display game message                                        | ✅Done       |
 | ➕ Display sum                                                 | ✅Done       |
-| 🃍 Display cards                                                | ⬜ Not yet   |
+| 🃍 Display cards                                                | ✅Done       |
 | ➕ New card button                                             | ⬜ Not yet   |
 | 🔄 Add to sum when newCard is clicked                          | ⬜ Not yet   |
 | ✏️ Rename `startGame` function                                 | ⬜ Not yet   |
