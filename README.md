@@ -116,8 +116,8 @@ solo-project/
 | 🔁 `if...else` statement                                       |  ✅Done      |
 | 🔀 `if/else if/else` statement                                 |  ✅Done      |
 | 💭 Boolean                                                     |  ✅Done      |
-| 🧠 `hasBlackJack` variable                                     | ⬜ Not yet   |
-| ❤️ `isAlive` variable                                          | ⬜ Not yet   |
+| 🧠 `hasBlackJack` variable                                     | ✅Done       |
+| ❤️ `isAlive` variable                                          | ✅Done       |
 | 💭 Practice boolean conditions                                 | ⬜ Not yet   |
 | 📝 Add message variable                                        | ⬜ Not yet   |
 | 🎨 Link stylesheet                                             | ⬜ Not yet   |

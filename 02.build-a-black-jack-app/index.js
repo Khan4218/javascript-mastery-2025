@@ -3,11 +3,12 @@
 
 // 2. Create a variable, sum, and set it to the sum of the two cards
 
-let firstCard = 1;
+let firstCard = 15;
 let secondCard = 10;
 
 let sum = firstCard + secondCard;
-
+let hasBlackJack = false;
+let isAlive = true;
 
 // Write the conditional according to these rules:
 
@@ -15,13 +16,19 @@ let sum = firstCard + secondCard;
 // else if exactly 21 -> "Wohoo! You've got Blackjack! 🥳"
 // else -> "You're out of the game! 😭"
 
+// 1. Create a variable called isAlive and assign it to true
+
+// 2. Flip its value to false in the appropriate code block 
 if (sum <= 20) {
   console.log("Do you want to draw a new card? 🙂");
   
 }else if (sum === 21) {
   console.log("Wohoo! You've got Blackjack! 🥳");
-  
+  hasBlackJack = true;
 }else {
    console.log("You're out of the game! 😭");
-   
+   isAlive = false
 }
+console.log(hasBlackJack);
+
+console.log(isAlive);
