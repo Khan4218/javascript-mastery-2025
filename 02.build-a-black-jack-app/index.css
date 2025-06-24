@@ -6,10 +6,12 @@ body{
 }
 
 h1{
+    margin-bottom: 10px;
     color: goldenrod;
 }
 
 #message-el{
+    margin-bottom: 10px;
     font-style: italic;
 }
 
@@ -21,4 +23,23 @@ h1{
     color: white;
     font-weight: bold;
     font-size: x-large;
+}
+
+#sum-el{
+    margin-top: 3px;
+}
+
+.start-game-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 200px;
+  color: #016f32;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: goldenrod ;
+
 }

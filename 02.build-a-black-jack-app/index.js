@@ -5,11 +5,10 @@ let sum = firstCard + secondCard;
 let hasBlackJack = false;
 let isAlive = true;
 let message = "";
-
-// 1. Declare a variable called message and assign its value to an empty string
-
-// 2. Reassign the message variable to the string we're logging out
-if (sum <= 20) {
+// 2. Create a startGame() function. Move the conditional
+// below (line 11-20) inside the body of the function.
+function startGame() {
+  if (sum <= 20) {
   message = "Do you want to draw a new card? 🙂";
   
 }else if (sum === 21) {
@@ -21,4 +20,6 @@ if (sum <= 20) {
 }
 
 console.log(message);
+}
+
 

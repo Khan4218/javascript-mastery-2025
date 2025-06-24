@@ -122,7 +122,7 @@ solo-project/
 | 📝 Add message variable                                        | ✅Done       |
 | 🎨 Link stylesheet                                             | ✅Done       |
 | 🧼 Add basic styling                                           | ✅Done       |
-| ▶️ Make start button work                                      | ⬜ Not yet   |
+| ▶️ Make start button work                                      | ✅Done       |
 | 📢 Display game message                                        | ⬜ Not yet   |
 | ➕ Display sum                                                 | ⬜ Not yet   |
 | 🃍 Display cards                                                | ⬜ Not yet   |
