@@ -118,7 +118,7 @@ solo-project/
 | 💭 Boolean                                                     |  ✅Done      |
 | 🧠 `hasBlackJack` variable                                     | ✅Done       |
 | ❤️ `isAlive` variable                                          | ✅Done       |
-| 💭 Practice boolean conditions                                 | ⬜ Not yet   |
+| 💭 Practice boolean conditions                                 | ✅Done       |
 | 📝 Add message variable                                        | ⬜ Not yet   |
 | 🎨 Link stylesheet                                             | ⬜ Not yet   |
 | 🧼 Add basic styling                                           | ⬜ Not yet   |
