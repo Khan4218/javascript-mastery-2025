@@ -123,7 +123,7 @@ solo-project/
 | 🎨 Link stylesheet                                             | ✅Done       |
 | 🧼 Add basic styling                                           | ✅Done       |
 | ▶️ Make start button work                                      | ✅Done       |
-| 📢 Display game message                                        | ⬜ Not yet   |
+| 📢 Display game message                                        | ✅Done       |
 | ➕ Display sum                                                 | ⬜ Not yet   |
 | 🃍 Display cards                                                | ⬜ Not yet   |
 | ➕ New card button                                             | ⬜ Not yet   |
