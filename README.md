@@ -120,8 +120,8 @@ solo-project/
 | ❤️ `isAlive` variable                                          | ✅Done       |
 | 💭 Practice boolean conditions                                 | ✅Done       |
 | 📝 Add message variable                                        | ✅Done       |
-| 🎨 Link stylesheet                                             | ⬜ Not yet   |
-| 🧼 Add basic styling                                           | ⬜ Not yet   |
+| 🎨 Link stylesheet                                             | ✅Done       |
+| 🧼 Add basic styling                                           | ✅Done       |
 | ▶️ Make start button work                                      | ⬜ Not yet   |
 | 📢 Display game message                                        | ⬜ Not yet   |
 | ➕ Display sum                                                 | ⬜ Not yet   |
