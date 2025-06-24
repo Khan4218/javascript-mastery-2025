@@ -128,7 +128,7 @@ solo-project/
 | 🃍 Display cards                                                | ✅Done       |
 | ➕ New card button                                             | ✅Done       |
 | 🔄 Add to sum when newCard is clicked                          | ✅Done       |
-| ✏️ Rename `startGame` function                                 | ⬜ Not yet   |
+| ✏️ Rename `startGame` function                                 | ✅Done       |
 | 🧮 Solve card problem using array                              | ⬜ Not yet   |
 | 📚 Arrays introduction                                         | ⬜ Not yet   |
 | 🔢 Array indexes                                               | ⬜ Not yet   |
