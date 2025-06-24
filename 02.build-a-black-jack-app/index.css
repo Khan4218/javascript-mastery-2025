@@ -29,7 +29,9 @@ h1{
     margin-top: 3px;
 }
 
-.start-game-btn{
+.start-game-btn,
+.new-card-btn{
+  margin: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
