@@ -119,7 +119,7 @@ solo-project/
 | 🧠 `hasBlackJack` variable                                     | ✅Done       |
 | ❤️ `isAlive` variable                                          | ✅Done       |
 | 💭 Practice boolean conditions                                 | ✅Done       |
-| 📝 Add message variable                                        | ⬜ Not yet   |
+| 📝 Add message variable                                        | ✅Done       |
 | 🎨 Link stylesheet                                             | ⬜ Not yet   |
 | 🧼 Add basic styling                                           | ⬜ Not yet   |
 | ▶️ Make start button work                                      | ⬜ Not yet   |
