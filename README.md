@@ -114,7 +114,7 @@ solo-project/
 | 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ✅Done      |
 | 🧾 If...else conditionals                                      | ✅Done       |
 | 🔁 `if...else` statement                                       |  ✅Done      |
-| 🔀 `if/else if/else` statement                                 | ⬜ Not yet   |
+| 🔀 `if/else if/else` statement                                 |  ✅Done    |
 | 🧠 `hasBlackJack` variable                                     | ⬜ Not yet   |
 | ❤️ `isAlive` variable                                          | ⬜ Not yet   |
 | 💭 Practice boolean conditions                                 | ⬜ Not yet   |
