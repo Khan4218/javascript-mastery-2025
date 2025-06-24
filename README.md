@@ -124,7 +124,7 @@ solo-project/
 | 🧼 Add basic styling                                           | ✅Done       |
 | ▶️ Make start button work                                      | ✅Done       |
 | 📢 Display game message                                        | ✅Done       |
-| ➕ Display sum                                                 | ⬜ Not yet   |
+| ➕ Display sum                                                 | ✅Done       |
 | 🃍 Display cards                                                | ⬜ Not yet   |
 | ➕ New card button                                             | ⬜ Not yet   |
 | 🔄 Add to sum when newCard is clicked                          | ⬜ Not yet   |
