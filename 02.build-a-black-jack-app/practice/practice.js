@@ -43,3 +43,15 @@ let myExperience = ["Front End Developer Fresher", "USIT Recruiter at Transend I
 console.log(myExperience[0]);
 console.log(myExperience[1]);
 console.log(myExperience[2]);
+
+
+// Array - ordered list of items - coposite / complex data type
+
+// Create an array that describes yourself. Use the three primitive data types you've learned
+// It should contain your name (string), your age (number), and whether you like pizza (boolean)
+let name = "Mir Akbar Ali Khan"
+let age = 23
+let likePizza = true
+let aboutMe = [name, age, likePizza ]
+
+console.log(aboutMe[1]);
