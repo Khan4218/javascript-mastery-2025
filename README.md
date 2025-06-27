@@ -129,13 +129,13 @@ solo-project/
 | ➕ New card button                                             | ✅Done       |
 | 🔄 Add to sum when newCard is clicked                          | ✅Done       |
 | ✏️ Rename `startGame` function                                 | ✅Done       |
-| 🧮 Solve card problem using array                              | ⬜ Not yet   |
-| 📚 Arrays introduction                                         | ⬜ Not yet   |
-| 🔢 Array indexes                                               | ⬜ Not yet   |
-| 🧬 Arrays with multiple data types                             | ⬜ Not yet   |
-| ➕ Adding & removing items from arrays                         | ⬜ Not yet   |
-| 🃏 Create cards array                                          | ⬜ Not yet   |
-| 🆕 Push new card to array                                      | ⬜ Not yet   |
+| 🧮 Solve card problem using array                              | ✅Done       |
+| 📚 Arrays introduction                                         | ✅Done       |
+| 🔢 Array indexes                                               | ✅Done       |
+| 🧬 Arrays with multiple data types                             | ✅Done       |
+| ➕ Adding & removing items from arrays                         | ✅Done       |
+| 🃏 Create cards array                                          | ✅Done       |
+| 🆕 Push new card to array                                      | ✅Done       |
 | 🔢 Counting elements                                           | ⬜ Not yet   |
 | 🔁 Loops                                                       | ⬜ Not yet   |
 | 🔁 For loops & arrays                                          | ⬜ Not yet   |
