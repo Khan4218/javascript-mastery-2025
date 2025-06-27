@@ -10,3 +10,6 @@ let featuredPosts = [
 ]
 
 console.log( featuredPosts.length ) //outPut 3
+
+//array.push // push a item into array
+//array.pop // removes last item of array

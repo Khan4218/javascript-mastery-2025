@@ -55,3 +55,5 @@ let likePizza = true
 let aboutMe = [name, age, likePizza ]
 
 console.log(aboutMe[1]);
+
+

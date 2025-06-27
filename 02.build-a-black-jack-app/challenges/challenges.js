@@ -19,19 +19,44 @@
 
 // Check if the person is elegible for a birthday card from the King! (100)
 
-let age = 101
+// let age = 101
 
-// if less than 100    -> "Not elegible"
-// else if exactly 100 -> "Here is your birthday card from the King!"
-// else                -> "Not elegible, you have already gotten one"
+// // if less than 100    -> "Not elegible"
+// // else if exactly 100 -> "Here is your birthday card from the King!"
+// // else                -> "Not elegible, you have already gotten one"
 
-if (age < 100) {
-    console.log("Not elegible");
+// if (age < 100) {
+//     console.log("Not elegible");
     
-}else if (age === 100) { 
-   console.log("Here is your birthday card from the King!");
+// }else if (age === 100) { 
+//    console.log("Here is your birthday card from the King!");
    
-}else {
-    console.log("Not elegible, you have already gotten one");
+// }else {
+//     console.log("Not elegible, you have already gotten one");
     
-}
+// }
+
+//Arrays Challenge 
+
+let cards = [7, 4]
+cards.push(6)
+//console.log(cards)
+
+// Push the newMessage to the messages array, and then log out the array
+
+let messages = [
+    "Hey, how's it going?",        
+    "I'm great, thank you! How about you?",
+    "All good. Been working on my portfolio lately."
+]
+
+let newMessage = "Same here!"
+
+messages.push(newMessage)
+console.log(messages);
+
+// How can you remove the last item in an array? Try to google it!
+
+messages.pop()
+
+console.log(messages);
