@@ -24,3 +24,18 @@ console.log(3 < 0)    // false
 console.log(3 >= 3)   // true
 console.log(11 <= 11) // true
 console.log(3 <= 2)   // false
+
+
+
+//Arrays i.e list of ordered items
+
+let featuredPosts = [
+    "Check out my Netflix clone",
+    "Here's the code for my project",
+    "I've just relaunched my portfolio"
+]
+
+// Create an array that lists your i.e. experience, education, licenses, skills or similar
+// The items of the array should be strings
+
+let myExperience = ["Front End Developer Fresher", "USIT Recruiter at Transend It solutions"]
