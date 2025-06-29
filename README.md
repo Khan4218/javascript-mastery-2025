@@ -154,7 +154,7 @@ solo-project/
 | 🔢 `getRandomNumber` function                                  | ✅Done       |
 | 🔁 Assign values in `startGame`                                | ✅Done       |
 | 🐞 Fix card feature                                            | ✅Done       |
-| 🧠 Logical AND operator                                        | ⬜ Not yet   |
+| 🧠 Logical AND operator                                        | ✅Done       |
 | 🔗 Logical operators overview                                  | ⬜ Not yet   |
 | 🧠 Logical OR operator                                         | ⬜ Not yet   |
 | 🚫 Only trigger `newCard()` if allowed                         | ⬜ Not yet   |

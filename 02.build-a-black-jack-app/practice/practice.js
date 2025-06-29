@@ -207,9 +207,22 @@ Write down all the possible values randomNumber can hold now!
 */
 
 // Try to modify the expression so that we get a range from 1 to 6
-let randomNumber = Math.floor(Math.random() * 6) + 1
+// let randomNumber = Math.floor(Math.random() * 6) + 1
 
-console.log(randomNumber)
+// console.log(randomNumber)
+
+// Logical && operator
+let hasCompletedCourse = true
+let givesCertificate = true
+
+if (hasCompletedCourse === true && givesCertificate === true) {
+    generateCertificate()
+}
+
+function generateCertificate() {
+    console.log("Generating certificate....")
+}
+
 
 
 

@@ -9,7 +9,9 @@ let featuredPosts = [
     "I've just relaunched my portfolio"  // 2
 ]
 
-console.log( featuredPosts.length ) //outPut 3
+console.log(featuredPosts.length) //outPut 3
 
 //array.push // push a item into array
 //array.pop // removes last item of array
+
+//To check both conditions we use && operator
