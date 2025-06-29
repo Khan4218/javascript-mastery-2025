@@ -29,31 +29,47 @@
 
 //Arrays i.e list of ordered items
 
-let featuredPosts = [
-    "Check out my Netflix clone",
-    "Here's the code for my project",
-    "I've just relaunched my portfolio"
-]
+// let featuredPosts = [
+//     "Check out my Netflix clone",
+//     "Here's the code for my project",
+//     "I've just relaunched my portfolio"
+// ]
 
-// Create an array that lists your i.e. experience, education, licenses, skills or similar
-// The items of the array should be strings
-let myExperience = ["Front End Developer Fresher", "USIT Recruiter at Transend It solutions"]
-//Make the following appear in log 
-//we use index to log specific items
-console.log(myExperience[0]);
-console.log(myExperience[1]);
-console.log(myExperience[2]);
+// // Create an array that lists your i.e. experience, education, licenses, skills or similar
+// // The items of the array should be strings
+// let myExperience = ["Front End Developer Fresher", "USIT Recruiter at Transend It solutions"]
+// //Make the following appear in log 
+// //we use index to log specific items
+// console.log(myExperience[0]);
+// console.log(myExperience[1]);
+// console.log(myExperience[2]);
 
 
-// Array - ordered list of items - coposite / complex data type
+// // Array - ordered list of items - coposite / complex data type
 
-// Create an array that describes yourself. Use the three primitive data types you've learned
-// It should contain your name (string), your age (number), and whether you like pizza (boolean)
-let name = "Mir Akbar Ali Khan"
-let age = 23
-let likePizza = true
-let aboutMe = [name, age, likePizza ]
+// // Create an array that describes yourself. Use the three primitive data types you've learned
+// // It should contain your name (string), your age (number), and whether you like pizza (boolean)
+// let name = "Mir Akbar Ali Khan"
+// let age = 23
+// let likePizza = true
+// let aboutMe = [name, age, likePizza ]
 
-console.log(aboutMe[1]);
+// console.log(aboutMe[1]);
 
+// Loops 
+
+// Count to ten!
+
+// We need to specify...
+
+// Where should we START counting?
+// Where is the FINISH line?
+// What's the STEP SIZE we should use?
+
+//    START           FINISH       STEP SIZE
+for ( let count = 10;  count < 21;  count += 1 )  {
+    
+    console.log(count)
+
+}
 

@@ -136,7 +136,7 @@ solo-project/
 | ➕ Adding & removing items from arrays                         | ✅Done       |
 | 🃏 Create cards array                                          | ✅Done       |
 | 🆕 Push new card to array                                      | ✅Done       |
-| 🔢 Counting elements                                           | ⬜ Not yet   |
+| 🔢 Counting elements                                           | ✅Done       |
 | 🔁 Loops                                                       | ⬜ Not yet   |
 | 🔁 For loops & arrays                                          | ⬜ Not yet   |
 | 🔁 First array-based for loop                                  | ⬜ Not yet   |
