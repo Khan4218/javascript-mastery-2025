@@ -146,8 +146,8 @@ solo-project/
 | 🔄 Returning values from functions                             | ✅Done       |
 | 🧮 Function to set card values                                 | ✅Done       |
 | 🎲 Generate random numbers with `Math.random()`                | ✅Done       |
-| 🎲 `Math.random() * 6`                                         | ⬜ Not yet   |
-| 📉 Flooring number with `Math.floor()`                         | ⬜ Not yet   |
+| 🎲 `Math.random() * 6`                                         | ✅Done       |
+| 📉 Flooring number with `Math.floor()`                         | ✅Done       |
 | 🎲 Create dice function                                        | ⬜ Not yet   |
 | ✅ Complete dice logic                                         | ⬜ Not yet   |
 | 🔧 Make `getRandomCard()` work                                 | ⬜ Not yet   |
