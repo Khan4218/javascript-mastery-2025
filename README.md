@@ -155,7 +155,7 @@ solo-project/
 | 🔁 Assign values in `startGame`                                | ✅Done       |
 | 🐞 Fix card feature                                            | ✅Done       |
 | 🧠 Logical AND operator                                        | ✅Done       |
-| 🔗 Logical operators overview                                  | ⬜ Not yet   |
+| 🔗 Logical operators overview                                  | ✅Done       |
 | 🧠 Logical OR operator                                         | ⬜ Not yet   |
 | 🚫 Only trigger `newCard()` if allowed                         | ⬜ Not yet   |
 | 🧠 Object sneak peek                                           | ⬜ Not yet   |
