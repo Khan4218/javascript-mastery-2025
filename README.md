@@ -152,7 +152,7 @@ solo-project/
 | ✅ Complete dice logic                                         | ✅Done       |
 | 🔧 Make `getRandomCard()` work                                 | ✅Done       |
 | 🔢 `getRandomNumber` function                                  | ✅Done       |
-| 🔁 Assign values in `startGame`                                | ⬜ Not yet   |
+| 🔁 Assign values in `startGame`                                | ✅Done       |
 | 🐞 Fix card feature                                            | ⬜ Not yet   |
 | 🧠 Logical AND operator                                        | ⬜ Not yet   |
 | 🔗 Logical operators overview                                  | ⬜ Not yet   |
