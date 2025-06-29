@@ -144,7 +144,7 @@ solo-project/
 | 🖼️ Use loop to render cards                                    | ✅Done       |
 | ❌ Avoid hard-coded values                                     | ✅Done       |
 | 🔄 Returning values from functions                             | ✅Done       |
-| 🧮 Function to set card values                                 | ⬜ Not yet   |
+| 🧮 Function to set card values                                 | ✅Done       |
 | 🎲 Generate random numbers with `Math.random()`                | ⬜ Not yet   |
 | 🎲 `Math.random() * 6`                                         | ⬜ Not yet   |
 | 📉 Flooring number with `Math.floor()`                         | ⬜ Not yet   |
