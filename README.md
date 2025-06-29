@@ -151,7 +151,7 @@ solo-project/
 | 🎲 Create dice function                                        | ✅Done       |
 | ✅ Complete dice logic                                         | ✅Done       |
 | 🔧 Make `getRandomCard()` work                                 | ✅Done       |
-| 🔢 `getRandomNumber` function                                  | ⬜ Not yet   |
+| 🔢 `getRandomNumber` function                                  | ✅Done       |
 | 🔁 Assign values in `startGame`                                | ⬜ Not yet   |
 | 🐞 Fix card feature                                            | ⬜ Not yet   |
 | 🧠 Logical AND operator                                        | ⬜ Not yet   |
