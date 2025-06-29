@@ -148,8 +148,8 @@ solo-project/
 | 🎲 Generate random numbers with `Math.random()`                | ✅Done       |
 | 🎲 `Math.random() * 6`                                         | ✅Done       |
 | 📉 Flooring number with `Math.floor()`                         | ✅Done       |
-| 🎲 Create dice function                                        | ⬜ Not yet   |
-| ✅ Complete dice logic                                         | ⬜ Not yet   |
+| 🎲 Create dice function                                        | ✅Done       |
+| ✅ Complete dice logic                                         | ✅Done       |
 | 🔧 Make `getRandomCard()` work                                 | ⬜ Not yet   |
 | 🔢 `getRandomNumber` function                                  | ⬜ Not yet   |
 | 🔁 Assign values in `startGame`                                | ⬜ Not yet   |

@@ -154,7 +154,7 @@
 // console.log(randomNumber)
 
 
-/* 
+/*
 
 What does Math.random() do?
 
@@ -167,7 +167,7 @@ Your answer: generates a random number between 0 and 1 everytime the method runs
 // console.log(randomNumber)
 
 
-/* 
+/*
 
 In which range will our randomNumber be now?
 
@@ -178,9 +178,9 @@ To:5.9999.....
 
 //Math.floor()
 
-let flooredNumber = Math.floor(4.045)
+// let flooredNumber = Math.floor(4.045)
 
-console.log(flooredNumber)
+// console.log(flooredNumber)
 
 
 /* 
@@ -191,7 +191,25 @@ Your answer: removes the decimals
 
 */
 
+// let randomNumber = Math.floor(Math.random() * 6)
 
+// console.log(randomNumber)
+
+/* 
+
+Write down all the possible values randomNumber can hold now!
+0
+1
+2
+3
+4
+5
+*/
+
+// Try to modify the expression so that we get a range from 1 to 6
+let randomNumber = Math.floor(Math.random() * 6) + 1
+
+console.log(randomNumber)
 
 
 

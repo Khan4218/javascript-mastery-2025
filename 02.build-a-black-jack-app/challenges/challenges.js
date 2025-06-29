@@ -9,10 +9,10 @@
 
 // if(age < 21){
 //    console.log("You can not enter the club");
-   
+
 // }else{
 //     console.log("welcome!");
-    
+
 // }
 
 //challenge 2
@@ -27,13 +27,13 @@
 
 // if (age < 100) {
 //     console.log("Not elegible");
-    
+
 // }else if (age === 100) { 
 //    console.log("Here is your birthday card from the King!");
-   
+
 // }else {
 //     console.log("Not elegible, you have already gotten one");
-    
+
 // }
 
 //Arrays Challenge 
@@ -63,12 +63,22 @@
 
 //for Loop and arrays and DOM challenge 
 
-let sentence = ["Hello", "my", "name", "is", "Per"] 
-let greetingEl = document.getElementById("greeting-el")
+// let sentence = ["Hello", "my", "name", "is", "Per"] 
+// let greetingEl = document.getElementById("greeting-el")
 
-// Render the sentence in the greetingEl paragraph using a for loop and .textContent
+// // Render the sentence in the greetingEl paragraph using a for loop and .textContent
 
-for (i = 0; i < sentence.length; i ++) {    
-  greetingEl.textContent += " " + sentence[i]
-   
+// for (i = 0; i < sentence.length; i ++) {    
+//   greetingEl.textContent += " " + sentence[i]
+
+// }
+
+
+// Create a function, rollDice(), that returns a random number between 1 and 6
+
+function rollDice() {
+  let randomNumber = Math.floor(Math.random() * 6) + 1
+  return randomNumber
+
 }
+console.log(rollDice());
