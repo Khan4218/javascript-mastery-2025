@@ -137,7 +137,7 @@ solo-project/
 | 🃏 Create cards array                                          | ✅Done       |
 | 🆕 Push new card to array                                      | ✅Done       |
 | 🔢 Counting elements                                           | ✅Done       |
-| 🔁 Loops                                                       | ⬜ Not yet   |
+| 🔁 Loops                                                       | ✅Done       |
 | 🔁 For loops & arrays                                          | ⬜ Not yet   |
 | 🔁 First array-based for loop                                  | ⬜ Not yet   |
 | 🔁 For loops, arrays, & DOM                                    | ⬜ Not yet   |

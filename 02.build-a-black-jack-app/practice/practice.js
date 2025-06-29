@@ -66,10 +66,21 @@
 // Where is the FINISH line?
 // What's the STEP SIZE we should use?
 
-//    START           FINISH       STEP SIZE
-for ( let count = 10;  count < 21;  count += 1 )  {
+// //    START           FINISH       STEP SIZE
+// for ( let count = 10;  count < 21;  count += 1 )  {
     
-    console.log(count)
+//     console.log(count)
 
+// }
+
+// for (let i = 0; i < 6; i += 1) {
+//     console.log(i)
+// }
+
+// Create a for loop that counts from 10 to 100 in steps of 10
+// Use console.log to log out the numbers
+
+for (let i = 0 ; i < 101; i += 10) {
+   console.log(i);
+   
 }
-
