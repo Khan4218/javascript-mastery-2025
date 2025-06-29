@@ -38,25 +38,37 @@
 
 //Arrays Challenge 
 
-let cards = [7, 4]
-cards.push(6)
-//console.log(cards)
+// let cards = [7, 4]
+// cards.push(6)
+// //console.log(cards)
 
-// Push the newMessage to the messages array, and then log out the array
+// // Push the newMessage to the messages array, and then log out the array
 
-let messages = [
-    "Hey, how's it going?",        
-    "I'm great, thank you! How about you?",
-    "All good. Been working on my portfolio lately."
-]
+// let messages = [
+//     "Hey, how's it going?",        
+//     "I'm great, thank you! How about you?",
+//     "All good. Been working on my portfolio lately."
+// ]
 
-let newMessage = "Same here!"
+// let newMessage = "Same here!"
 
-messages.push(newMessage)
-console.log(messages);
+// messages.push(newMessage)
+// console.log(messages);
 
-// How can you remove the last item in an array? Try to google it!
+// // How can you remove the last item in an array? Try to google it!
 
-messages.pop()
+// messages.pop()
 
-console.log(messages);
+// console.log(messages);
+
+//for Loop and arrays and DOM challenge 
+
+let sentence = ["Hello", "my", "name", "is", "Per"] 
+let greetingEl = document.getElementById("greeting-el")
+
+// Render the sentence in the greetingEl paragraph using a for loop and .textContent
+
+for (i = 0; i < sentence.length; i ++) {    
+  greetingEl.textContent += " " + sentence[i]
+   
+}

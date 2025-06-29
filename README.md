@@ -140,7 +140,7 @@ solo-project/
 | 🔁 Loops                                                       | ✅Done       |
 | 🔁 For loops & arrays                                          | ✅Done       |
 | 🔁 First array-based for loop                                  | ✅Done       |
-| 🔁 For loops, arrays, & DOM                                    | ⬜ Not yet   |
+| 🔁 For loops, arrays, & DOM                                    | ✅Done       |
 | 🖼️ Use loop to render cards                                    | ⬜ Not yet   |
 | ❌ Avoid hard-coded values                                     | ⬜ Not yet   |
 | 🔄 Returning values from functions                             | ⬜ Not yet   |
