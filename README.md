@@ -153,7 +153,7 @@ solo-project/
 | 🔧 Make `getRandomCard()` work                                 | ✅Done       |
 | 🔢 `getRandomNumber` function                                  | ✅Done       |
 | 🔁 Assign values in `startGame`                                | ✅Done       |
-| 🐞 Fix card feature                                            | ⬜ Not yet   |
+| 🐞 Fix card feature                                            | ✅Done       |
 | 🧠 Logical AND operator                                        | ⬜ Not yet   |
 | 🔗 Logical operators overview                                  | ⬜ Not yet   |
 | 🧠 Logical OR operator                                         | ⬜ Not yet   |

@@ -28,7 +28,7 @@
 // if (age < 100) {
 //     console.log("Not elegible");
 
-// }else if (age === 100) { 
+// }else if (age === 100) {
 //    console.log("Here is your birthday card from the King!");
 
 // }else {
@@ -36,7 +36,7 @@
 
 // }
 
-//Arrays Challenge 
+//Arrays Challenge
 
 // let cards = [7, 4]
 // cards.push(6)
@@ -45,7 +45,7 @@
 // // Push the newMessage to the messages array, and then log out the array
 
 // let messages = [
-//     "Hey, how's it going?",        
+//     "Hey, how's it going?",
 //     "I'm great, thank you! How about you?",
 //     "All good. Been working on my portfolio lately."
 // ]
@@ -61,14 +61,14 @@
 
 // console.log(messages);
 
-//for Loop and arrays and DOM challenge 
+//for Loop and arrays and DOM challenge
 
-// let sentence = ["Hello", "my", "name", "is", "Per"] 
+// let sentence = ["Hello", "my", "name", "is", "Per"]
 // let greetingEl = document.getElementById("greeting-el")
 
 // // Render the sentence in the greetingEl paragraph using a for loop and .textContent
 
-// for (i = 0; i < sentence.length; i ++) {    
+// for (i = 0; i < sentence.length; i ++) {
 //   greetingEl.textContent += " " + sentence[i]
 
 // }
@@ -76,9 +76,11 @@
 
 // Create a function, rollDice(), that returns a random number between 1 and 6
 
-function rollDice() {
-  let randomNumber = Math.floor(Math.random() * 6) + 1
-  return randomNumber
+// function rollDice() {
+//   let randomNumber = Math.floor(Math.random() * 6) + 1
+//   return randomNumber
 
-}
-console.log(rollDice());
+// }
+// console.log(rollDice());
+
+//Our new card feature or button is broken bcoz i can click a new card before starting the game and i can go on adding new cards to fix that i need more conditional operators and i need to learn it 
