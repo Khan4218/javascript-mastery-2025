@@ -138,8 +138,8 @@ solo-project/
 | 🆕 Push new card to array                                      | ✅Done       |
 | 🔢 Counting elements                                           | ✅Done       |
 | 🔁 Loops                                                       | ✅Done       |
-| 🔁 For loops & arrays                                          | ⬜ Not yet   |
-| 🔁 First array-based for loop                                  | ⬜ Not yet   |
+| 🔁 For loops & arrays                                          | ✅Done       |
+| 🔁 First array-based for loop                                  | ✅Done       |
 | 🔁 For loops, arrays, & DOM                                    | ⬜ Not yet   |
 | 🖼️ Use loop to render cards                                    | ⬜ Not yet   |
 | ❌ Avoid hard-coded values                                     | ⬜ Not yet   |
