@@ -12,7 +12,8 @@ let cardsEl = document.getElementById("cards-el")
 
 
 function randomCard() {
-  return 5;
+  let randomNumber = Math.floor(Math.random() * 13) + 1
+  return randomNumber
 }
 
 function startGame() {

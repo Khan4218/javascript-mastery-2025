@@ -150,7 +150,7 @@ solo-project/
 | 📉 Flooring number with `Math.floor()`                         | ✅Done       |
 | 🎲 Create dice function                                        | ✅Done       |
 | ✅ Complete dice logic                                         | ✅Done       |
-| 🔧 Make `getRandomCard()` work                                 | ⬜ Not yet   |
+| 🔧 Make `getRandomCard()` work                                 | ✅Done       |
 | 🔢 `getRandomNumber` function                                  | ⬜ Not yet   |
 | 🔁 Assign values in `startGame`                                | ⬜ Not yet   |
 | 🐞 Fix card feature                                            | ⬜ Not yet   |
