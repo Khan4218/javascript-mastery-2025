@@ -142,8 +142,8 @@ solo-project/
 | 🔁 First array-based for loop                                  | ✅Done       |
 | 🔁 For loops, arrays, & DOM                                    | ✅Done       |
 | 🖼️ Use loop to render cards                                    | ✅Done       |
-| ❌ Avoid hard-coded values                                     | ⬜ Not yet   |
-| 🔄 Returning values from functions                             | ⬜ Not yet   |
+| ❌ Avoid hard-coded values                                     | ✅Done       |
+| 🔄 Returning values from functions                             | ✅Done       |
 | 🧮 Function to set card values                                 | ⬜ Not yet   |
 | 🎲 Generate random numbers with `Math.random()`                | ⬜ Not yet   |
 | 🎲 `Math.random() * 6`                                         | ⬜ Not yet   |
