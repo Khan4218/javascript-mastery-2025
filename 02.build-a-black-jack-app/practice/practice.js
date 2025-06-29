@@ -117,36 +117,50 @@
 
 // Returning  values in a function
 
-let playerFirstTime = 102
-let playerSecondTime = 107
+// let playerFirstTime = 102
+// let playerSecondTime = 107
 
 
 
-function getFastestRaceTime() {
-    if (playerFirstTime < playerSecondTime) {
-        return playerFirstTime
-    } else if (playerSecondTime < playerFirstTime) {
-        return playerSecondTime
-    } else {
-    }
-}
+// function getFastestRaceTime() {
+//     if (playerFirstTime < playerSecondTime) {
+//         return playerFirstTime
+//     } else if (playerSecondTime < playerFirstTime) {
+//         return playerSecondTime
+//     } else {
+//     }
+// }
 
 
-let fastestRace = getFastestRaceTime()
-console.log(fastestRace);
+// let fastestRace = getFastestRaceTime()
+// console.log(fastestRace);
 
 
-// Write a function that returns the total race time
-// Call/invoke the function and store the returned value in a new variable
-// Finally, log the variable out
+// // Write a function that returns the total race time
+// // Call/invoke the function and store the returned value in a new variable
+// // Finally, log the variable out
 
-function totalRaceTime() {
-    return playerFirstTime + playerSecondTime;
-}
+// function totalRaceTime() {
+//     return playerFirstTime + playerSecondTime;
+// }
 
-let totalTime = totalRaceTime();
-console.log(totalTime);
+// let totalTime = totalRaceTime();
+// console.log(totalTime);
 
+//MAth.random
+
+let randomNumber = Math.random()
+
+console.log(randomNumber)
+
+
+/* 
+
+What does Math.random() do?
+
+Your answer: generates a random number between 0 and 1 everytime the method runs
+
+*/
 
 
 

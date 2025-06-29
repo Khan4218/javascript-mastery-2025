@@ -145,7 +145,7 @@ solo-project/
 | ❌ Avoid hard-coded values                                     | ✅Done       |
 | 🔄 Returning values from functions                             | ✅Done       |
 | 🧮 Function to set card values                                 | ✅Done       |
-| 🎲 Generate random numbers with `Math.random()`                | ⬜ Not yet   |
+| 🎲 Generate random numbers with `Math.random()`                | ✅Done       |
 | 🎲 `Math.random() * 6`                                         | ⬜ Not yet   |
 | 📉 Flooring number with `Math.floor()`                         | ⬜ Not yet   |
 | 🎲 Create dice function                                        | ⬜ Not yet   |
