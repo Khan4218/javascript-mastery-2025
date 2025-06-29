@@ -15,3 +15,4 @@ console.log(featuredPosts.length) //outPut 3
 //array.pop // removes last item of array
 
 //To check both conditions we use && operator
+// To check either one of the condition we use OR || operator

@@ -156,7 +156,7 @@ solo-project/
 | 🐞 Fix card feature                                            | ✅Done       |
 | 🧠 Logical AND operator                                        | ✅Done       |
 | 🔗 Logical operators overview                                  | ✅Done       |
-| 🧠 Logical OR operator                                         | ⬜ Not yet   |
+| 🧠 Logical OR operator                                         | ✅Done       |
 | 🚫 Only trigger `newCard()` if allowed                         | ⬜ Not yet   |
 | 🧠 Object sneak peek                                           | ⬜ Not yet   |
 | 🧱 Create first object                                         | ⬜ Not yet   |

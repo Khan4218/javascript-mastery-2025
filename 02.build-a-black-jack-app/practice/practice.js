@@ -212,30 +212,46 @@ Write down all the possible values randomNumber can hold now!
 // console.log(randomNumber)
 
 // Logical && operator
-let hasCompletedCourse = true
-let givesCertificate = true
+// let hasCompletedCourse = true
+// let givesCertificate = true
 
-if (hasCompletedCourse === true && givesCertificate === true) {
-    generateCertificate()
+// if (hasCompletedCourse === true && givesCertificate === true) {
+//     generateCertificate()
+// }
+
+// function generateCertificate() {
+//     console.log("Generating certificate....")
+// }
+
+
+// let hasSolvedChallenge = false
+// let hasHintsLeft = false
+
+// // Create an if statement that checks that both variables are false.
+// // If so, run the showSolution() function
+
+// function showSolution() {
+//     console.log("Showing the solution....")
+// }
+
+// if (hasSolvedChallenge === false && hasHintsLeft === false) {
+//     showSolution();
+// }
+
+
+// Logical OR(||) operator 
+// Create two boolean variables, likesDocumentaries and likesStartups
+// Use an OR statement (||) to call recommendMovie() if either of those variables are true
+
+let likesDocumentaries = true
+let likesStartups = false
+
+if (likesDocumentaries || likesStartups) {
+    recommendMovie();
 }
 
-function generateCertificate() {
-    console.log("Generating certificate....")
-}
-
-
-let hasSolvedChallenge = false
-let hasHintsLeft = false
-
-// Create an if statement that checks that both variables are false.
-// If so, run the showSolution() function
-
-function showSolution() {
-    console.log("Showing the solution....")
-}
-
-if (hasSolvedChallenge === false && hasHintsLeft === false) {
-    showSolution();
+function recommendMovie() {
+    console.log("Hey, check out this new film we think you will like!")
 }
 
 
