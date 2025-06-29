@@ -157,8 +157,8 @@ solo-project/
 | 🧠 Logical AND operator                                        | ✅Done       |
 | 🔗 Logical operators overview                                  | ✅Done       |
 | 🧠 Logical OR operator                                         | ✅Done       |
-| 🚫 Only trigger `newCard()` if allowed                         | ⬜ Not yet   |
-| 🧠 Object sneak peek                                           | ⬜ Not yet   |
+| 🚫 Only trigger `newCard()` if allowed                         | ✅Done       |
+| 🧠 Object sneak peek                                           | ✅Done       |
 | 🧱 Create first object                                         | ⬜ Not yet   |
 | 🧍 Store player data                                           | ⬜ Not yet   |
 | ⚙️ Methods on object                                           | ⬜ Not yet   |
