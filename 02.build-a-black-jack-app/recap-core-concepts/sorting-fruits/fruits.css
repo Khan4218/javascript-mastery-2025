@@ -1,0 +1,30 @@
+body {
+  margin-top: 120px;
+  padding: 40px;
+  background: whitesmoke;
+  text-align: center;
+}
+
+#fruits-title {
+  color: goldenrod;
+  font-size: 35px;
+}
+
+#apple-shelf {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: lightcoral;
+  border-radius: 10px;
+  height: 60px;
+  margin: 10px 0;
+}
+
+#orange-shelf {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: lightsalmon;
+  border-radius: 10px;
+  height: 60px;
+}

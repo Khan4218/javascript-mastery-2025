@@ -110,7 +110,7 @@ solo-project/
 
 | 🧬 Topic                                                       | ✅ Status   |
 |----------------------------------------------------------------|-------------|
-| 🃏 Build Blackjack game                                        | ⬜ Not yet   |
+| 🃏 Build Blackjack game                                        | ✅Done     |
 | 🂡 Add `firstCard`, `secondCard`, & `sum`                       | ✅Done      |
 | 🧾 If...else conditionals                                      | ✅Done       |
 | 🔁 `if...else` statement                                       |  ✅Done      |
@@ -170,7 +170,13 @@ solo-project/
 | 🧠 Logical operators usage                                     | ✅Done       |
 | ✊ Rock, Paper, Scissors game                                  | ✅Done       |
 | 👌 Emoji Fighter                                               | ✅Done       |
-| 🍎 Sorting fruits mini app                                     | ⬜ Not yet   |
+| 🍎 Sorting fruits mini app                                     | ✅Done       |
+
+### 📸 Preview
+
+![Screenshot of Black JAck GAme App](./02.build-a-black-jack-app/preview-images/Black-jack.png)
+![Screenshot of Emoji Fighter App](./02.build-a-black-jack-app/preview-images/Emoji-fighter.png)
+![Screenshot of Sorting Fruits App](./02.build-a-black-jack-app/preview-images/sorting-fruits.png)
 
 💻 Chrome Extension Project
 
