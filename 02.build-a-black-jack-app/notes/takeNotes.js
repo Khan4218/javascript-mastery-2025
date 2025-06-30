@@ -16,3 +16,18 @@ console.log(featuredPosts.length) //outPut 3
 
 //To check both conditions we use && operator
 // To check either one of the condition we use OR || operator
+
+
+//Methods
+
+//Methods are simply functions which are attached to objects 
+//example 
+//  let methods = {
+//   func: function prac() {
+//     console.log("Sneak peak into Methods");
+    
+//   }
+// }
+
+// methods.func();
+

@@ -161,7 +161,7 @@ solo-project/
 | 🧠 Object sneak peek                                           | ✅Done       |
 | 🧱 Create first object                                         | ✅Done       |
 | 🧍 Store player data                                           | ✅Done       |
-| ⚙️ Methods on object                                           | ⬜ Not yet   |
+| ⚙️ Methods on object                                           | ✅Done       |
 | 🔁 Recap of core concepts                                      | ⬜ Not yet   |
 | 🧩 Objects & functions                                         | ⬜ Not yet   |
 | 🧾 `if else` practice                                          | ⬜ Not yet   |
