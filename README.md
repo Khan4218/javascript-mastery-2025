@@ -164,7 +164,7 @@ solo-project/
 | ⚙️ Methods on object                                           | ✅Done       |
 | 🔁 Recap of core concepts                                      | ✅Done       |
 | 🧩 Objects & functions                                         | ✅Done       |
-| 🧾 `if else` practice                                          | ⬜ Not yet   |
+| 🧾 `if else` practice                                          | ✅Done       |
 | 🔁 Loops & arrays                                              | ⬜ Not yet   |
 | 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ⬜ Not yet   |
 | 🧠 Logical operators usage                                     | ⬜ Not yet   |
