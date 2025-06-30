@@ -52,3 +52,24 @@ if (age < 6) {
   console.log("senior citizen discount");
 
 }
+
+//for loops recap and practice
+
+let largeCountries = ["China", "India", "USA", "Indonesia", "Pakistan"]
+
+/* Use a for loop to log the following to the console:
+
+The 5 largest countries in the world:
+- China
+- India
+- United States
+- Indinesia
+- Pakistan
+*/
+let title = "The 5 largest countries in the world:"
+console.log(title);
+for (let i = 0; i < largeCountries.length; i++) {
+  console.log(" - " + largeCountries[i]);
+
+}
+

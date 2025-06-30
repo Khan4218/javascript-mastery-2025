@@ -165,7 +165,7 @@ solo-project/
 | 🔁 Recap of core concepts                                      | ✅Done       |
 | 🧩 Objects & functions                                         | ✅Done       |
 | 🧾 `if else` practice                                          | ✅Done       |
-| 🔁 Loops & arrays                                              | ⬜ Not yet   |
+| 🔁 Loops & arrays                                              | ✅Done       |
 | 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ⬜ Not yet   |
 | 🧠 Logical operators usage                                     | ⬜ Not yet   |
 | ✊ Rock, Paper, Scissors game                                  | ⬜ Not yet   |
