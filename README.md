@@ -104,6 +104,7 @@ solo-project/
 ### 📸 Preview
 
 ![Screenshot of Basketball Counter App](./01-passenger-counter-app/Preview-images/preview-image.png)
+🔗 Live Demo: [akba-passenger-counter-app.netlify.app](https://akba-passenger-counter-app.netlify.app)
 
 ---
 ## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
@@ -172,6 +173,47 @@ solo-project/
 | 👌 Emoji Fighter                                               | ✅Done       |
 | 🍎 Sorting fruits mini app                                     | ✅Done       |
 
+### 📁 Project Structure
+ 02.build-a-black-jack-app
+│   ├── challenges
+│   │   ├── challenges.html
+│   │   └── challenges.js
+│   ├── img
+│   │   └── table.png
+│   ├── index.css
+│   ├── index.html
+│   ├── index.js
+│   ├── notes
+│   │   └── takeNotes.js
+│   ├── practice
+│   │   ├── pracrice.html
+│   │   └── practice.js
+│   ├── preview-images
+│   │   ├── Black-jack.png
+│   │   ├── Emoji-fighter.png
+│   │   └── sorting-fruits.png
+│   └── recap-core-concepts
+│       ├── emoji-fighter-game
+│       │   ├── emoji.css
+│       │   ├── emoji.html
+│       │   └── emoji.js
+│       ├── recap.html
+│       ├── recap.js
+│       └── sorting-fruits
+│           ├── fruits.css
+│           ├── fruits.html
+│           └── fruits.js
+
+## About this section 
+## 🎮 JavaScript Mastery Tracker – Section 2: Blackjack Game Project
+
+In this section, I built a complete **Blackjack game project** from scratch using core JavaScript concepts. The project began with declaring variables like `firstCard`, `secondCard`, and `sum`, and using `if...else` and `if/else if/else` statements to determine game outcomes. I practiced working with **Booleans**, created game state flags (`hasBlackJack`, `isAlive`), and dynamically displayed messages, sums, and cards on the page.
+
+I deepened my understanding of **arrays** by using them to manage drawn cards, learning how to `push`, `pop`, and loop through arrays efficiently. I also learned to generate random numbers using `Math.random()` and `Math.floor()` to simulate card draws. As the game progressed, I transitioned from hard-coded values to dynamic rendering using `for` loops.
+
+Additionally, I got hands-on with **objects**, using them to store player data and define methods, giving a sneak peek into object-oriented programming. I wrapped up with fun challenges like **Rock, Paper, Scissors**, **Emoji Fighter**, and a **fruit sorting mini app**, reinforcing my skills in functions, loops, conditionals, arrays, and DOM interaction.
+
+
 ### 📸 Preview
 
 ![Screenshot of Black JAck GAme App](./02.build-a-black-jack-app/preview-images/Black-jack.png)
@@ -239,8 +281,6 @@ solo-project/
 # Passenger Counter App
 
 This project is part of my advanced JavaScript mastery journey. Although I've already built modern web apps with React and TypeScript, I'm revisiting core JavaScript fundamentals to strengthen my foundation.
-
-🔗 Live Demo: [akba-passenger-counter-app.netlify.app](https://akba-passenger-counter-app.netlify.app)
 
 ## 💡 Purpose
 
