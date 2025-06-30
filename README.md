@@ -217,8 +217,13 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 ### 📸 Preview
 
 ![Screenshot of Black JAck GAme App](./02.build-a-black-jack-app/preview-images/Black-jack.png)
+🔗 Live Demo: [black-jack-game-akbar.netlify.app](https://black-jack-game-akbar.netlify.app/)
+
+
 ![Screenshot of Emoji Fighter App](./02.build-a-black-jack-app/preview-images/Emoji-fighter.png)
+
 ![Screenshot of Sorting Fruits App](./02.build-a-black-jack-app/preview-images/sorting-fruits.png)
+
 
 💻 Chrome Extension Project
 
