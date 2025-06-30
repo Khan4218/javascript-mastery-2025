@@ -168,7 +168,7 @@ solo-project/
 | 🔁 Loops & arrays                                              | ✅Done       |
 | 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ✅Done       |
 | 🧠 Logical operators usage                                     | ✅Done       |
-| ✊ Rock, Paper, Scissors game                                  | ⬜ Not yet   |
+| ✊ Rock, Paper, Scissors game                                  | ✅Done       |
 | 🍎 Sorting fruits mini app                                     | ⬜ Not yet   |
 
 💻 Chrome Extension Project
