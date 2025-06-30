@@ -169,6 +169,7 @@ solo-project/
 | 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ✅Done       |
 | 🧠 Logical operators usage                                     | ✅Done       |
 | ✊ Rock, Paper, Scissors game                                  | ✅Done       |
+| 👌 Emoji Fighter                                               | ✅Done       |
 | 🍎 Sorting fruits mini app                                     | ⬜ Not yet   |
 
 💻 Chrome Extension Project
