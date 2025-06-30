@@ -162,7 +162,7 @@ solo-project/
 | 🧱 Create first object                                         | ✅Done       |
 | 🧍 Store player data                                           | ✅Done       |
 | ⚙️ Methods on object                                           | ✅Done       |
-| 🔁 Recap of core concepts                                      | ⬜ Not yet   |
+| 🔁 Recap of core concepts                                      | ✅Done       |
 | 🧩 Objects & functions                                         | ⬜ Not yet   |
 | 🧾 `if else` practice                                          | ⬜ Not yet   |
 | 🔁 Loops & arrays                                              | ⬜ Not yet   |
