@@ -84,3 +84,20 @@
 // console.log(rollDice());
 
 //Our new card feature or button is broken bcoz i can click a new card before starting the game and i can go on adding new cards to fix that i need more conditional operators and i need to learn it 
+
+//Objects challenge
+
+// Create an object that represents an airbnb castle listing.
+// It should contain at least one boolean, one string, one number, and one array
+// Log out at least two of the keys using the dot notation
+
+let castleListing = {
+  isOpen: true,
+  castleName: "SanGusto Abbey",
+  rating: 4,
+  specifications: ["4 Bedrooms", "1 Bed room", "2 Beds", "Private half bath "]
+
+}
+
+console.log(castleListing.castleName);
+console.log(castleListing.specifications);
