@@ -160,7 +160,7 @@ solo-project/
 | 🚫 Only trigger `newCard()` if allowed                         | ✅Done       |
 | 🧠 Object sneak peek                                           | ✅Done       |
 | 🧱 Create first object                                         | ✅Done       |
-| 🧍 Store player data                                           | ⬜ Not yet   |
+| 🧍 Store player data                                           | ✅Done       |
 | ⚙️ Methods on object                                           | ⬜ Not yet   |
 | 🔁 Recap of core concepts                                      | ⬜ Not yet   |
 | 🧩 Objects & functions                                         | ⬜ Not yet   |
