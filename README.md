@@ -163,7 +163,7 @@ solo-project/
 | 🧍 Store player data                                           | ✅Done       |
 | ⚙️ Methods on object                                           | ✅Done       |
 | 🔁 Recap of core concepts                                      | ✅Done       |
-| 🧩 Objects & functions                                         | ⬜ Not yet   |
+| 🧩 Objects & functions                                         | ✅Done       |
 | 🧾 `if else` practice                                          | ⬜ Not yet   |
 | 🔁 Loops & arrays                                              | ⬜ Not yet   |
 | 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ⬜ Not yet   |
