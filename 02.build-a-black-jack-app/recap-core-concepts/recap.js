@@ -55,7 +55,7 @@ if (age < 6) {
 
 //for loops recap and practice
 
-let largeCountries = ["China", "India", "USA", "Indonesia", "Pakistan"]
+// let largeCountries = ["China", "India", "USA", "Indonesia", "Pakistan"]
 
 /* Use a for loop to log the following to the console:
 
@@ -66,10 +66,26 @@ The 5 largest countries in the world:
 - Indinesia
 - Pakistan
 */
-let title = "The 5 largest countries in the world:"
-console.log(title);
-for (let i = 0; i < largeCountries.length; i++) {
-  console.log(" - " + largeCountries[i]);
+// let title = "The 5 largest countries in the world:"
+// console.log(title);
+// for (let i = 0; i < largeCountries.length; i++) {
+//   console.log(" - " + largeCountries[i]);
 
-}
+// }
 
+// array methods push,pop,unshift,shift
+
+let largeCountries = ["Tuvalu", "India", "USA", "Indonesia", "Monaco"]
+
+// You need to help me fixup the largeCountries array so that
+// China and Pakistan are added back into their respective places
+
+// Use push() & pop() and their counterparts unshift() & shift()
+// Google how to use unshift() and shift()
+
+largeCountries.pop();//removes last index
+largeCountries.push("Pakistan");//adds last index
+largeCountries.shift(); //removes index 0 
+largeCountries.unshift("China") // adds index 0
+
+console.log(largeCountries);

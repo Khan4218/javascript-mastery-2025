@@ -166,7 +166,7 @@ solo-project/
 | 🧩 Objects & functions                                         | ✅Done       |
 | 🧾 `if else` practice                                          | ✅Done       |
 | 🔁 Loops & arrays                                              | ✅Done       |
-| 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ⬜ Not yet   |
+| 🧪 `push()`, `pop()`, `unshift()`, `shift()` challenge         | ✅Done       |
 | 🧠 Logical operators usage                                     | ⬜ Not yet   |
 | ✊ Rock, Paper, Scissors game                                  | ⬜ Not yet   |
 | 🍎 Sorting fruits mini app                                     | ⬜ Not yet   |
