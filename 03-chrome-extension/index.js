@@ -12,7 +12,13 @@ inputBtn.addEventListener("click", function () {
 // Log out the items in the myLeads array using a for loop 
 
 for (let i = 0; i < myleads.length; i++) {
-  ulEl.innerHTML += "<li>" + myleads[i]; + "</li>"
+  // ulEl.innerHTML += "<li>" + myleads[i] + "</li>"
+  // create element
+  // set text content
+  // append to ul
+  const li = document.createElement("li")
+  li.textContent = myleads[i]
+  ulEl.append(li)
 
 }
 
