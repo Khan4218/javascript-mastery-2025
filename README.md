@@ -239,7 +239,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | ➕ Use `addEventListener()`                                         | ✅ Done     |
 | 🔄 Further event handling refactoring                               | ✅ Done     |
 | 📥 Create `myLeads` array & `inputEl` variable                      | ✅ Done     |
-| 🧠 Use of `let` & `const`                                           | ⬜ Not yet   |
+| 🧠 Use of `let` & `const`                                           | ✅ Done     |
 | ➕ Push input value to `myLeads`                                    | ⬜ Not yet   |
 | 🧾 Use `for` loop to log leads                                      | ⬜ Not yet   |
 | 📄 Create unordered list                                            | ⬜ Not yet   |
