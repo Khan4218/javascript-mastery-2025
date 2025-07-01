@@ -247,7 +247,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🧪 Practice with `innerHTML`                                        | ✅ Done     |
 | 🧪 More `innerHTML` usage                                           | ✅ Done     |
 | 🧱 Use `createElement()` & `append()` instead of `innerHTML`        | ✅ Done     |
-| ⚙️ Improve app performance                                          | ⬜ Not yet   |
+| ⚙️ Improve app performance                                          | ✅ Done     |
 | 🔁 Create reusable `render()` function                              | ⬜ Not yet   |
 | ❌ Clear input field                                                | ⬜ Not yet   |
 | 🔗 Add `<a>` tag for saved links                                    | ⬜ Not yet   |
