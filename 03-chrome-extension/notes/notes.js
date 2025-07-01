@@ -14,4 +14,9 @@
 
 //to clear a input field we genrally set the value to a empty string .value = ""
 
-//template literals `` are used for Multi lines and we can use variables or func using ${} 
+//template literals `` are used for Multi lines and we can use variables or func using ${}
+
+// we use localStorage to store the data the data should get stored in a localStorage
+//we set it with localStorage.setItem("key", "value")
+//we get it with localStorage.getItem("key")
+//if we want to cleat the localStorage we use localStorage.cleat();
