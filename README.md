@@ -255,7 +255,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 📝 Write a basic template string                                    | ✅ Done     |
 | 🔄 Make template string dynamic                                     | ✅ Done     |
 | 📜 Multi-line template strings                                      | ✅ Done     |
-| 🛠️ Refactor app with template strings                               | ⬜ Not yet  |
+| 🛠️ Refactor app with template strings                               | ✅ Done     |
 | 🎨 Style `<ul>` and `<li>` list                                     | ⬜ Not yet   |
 | 🚀 Prepare for deployment                                           | ⬜ Not yet   |
 | 🌐 Deploy Chrome Extension                                          | ⬜ Not yet   |
