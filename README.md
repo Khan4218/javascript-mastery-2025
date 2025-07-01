@@ -250,7 +250,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | ⚙️ Improve app performance                                          | ✅ Done     |
 | 🔁 Create reusable `render()` function                              | ✅ Done     |
 | ❌ Clear input field                                                | ✅ Done     |
-| 🔗 Add `<a>` tag for saved links                                    | ⬜ Not yet   |
+| 🔗 Add `<a>` tag for saved links                                    | ✅ Done     |
 | 🧵 Template strings introduction                                    | ⬜ Not yet   |
 | 📝 Write a basic template string                                    | ⬜ Not yet   |
 | 🔄 Make template string dynamic                                     | ⬜ Not yet   |
