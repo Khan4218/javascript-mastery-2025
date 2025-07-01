@@ -261,7 +261,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🌐 Deploy Chrome Extension                                          | ✅ Done     |
 | 💾 What is `localStorage`?                                          | ✅ Done     |
 | 💾 Use `localStorage` to save values                                | ✅ Done     |
-| 🧪 Store arrays in `localStorage`                                   | ⬜ Not yet   |
+| 🧪 Store arrays in `localStorage`                                   | ✅ Done     |
 | 💾 Save leads to `localStorage`                                     | ⬜ Not yet   |
 | 📥 Retrieve leads from `localStorage`                               | ⬜ Not yet   |
 | ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |

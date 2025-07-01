@@ -19,4 +19,9 @@
 // we use localStorage to store the data the data should get stored in a localStorage
 //we set it with localStorage.setItem("key", "value")
 //we get it with localStorage.getItem("key")
-//if we want to cleat the localStorage we use localStorage.cleat();
+//if we want to cleat the localStorage we use localStorage.clear();
+
+//to store a string into localStorage we first convert it into a string using let array = []
+// array = JSON.stringify(array)
+// if we then want to convert it into a array we use
+// array = JSON.parse(array)
