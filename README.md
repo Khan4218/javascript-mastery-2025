@@ -244,8 +244,8 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🧾 Use `for` loop to log leads                                      | ✅ Done     |
 | 📄 Create unordered list                                            | ✅ Done     |
 | 🖼️ Render leads in unordered list                                   | ✅ Done     |
-| 🧪 Practice with `innerHTML`                                        | ⬜ Not yet   |
-| 🧪 More `innerHTML` usage                                           | ⬜ Not yet   |
+| 🧪 Practice with `innerHTML`                                        | ✅ Done     |
+| 🧪 More `innerHTML` usage                                           | ✅ Done     |
 | 🧱 Use `createElement()` & `append()` instead of `innerHTML`        | ⬜ Not yet   |
 | ⚙️ Improve app performance                                          | ⬜ Not yet   |
 | 🔁 Create reusable `render()` function                              | ⬜ Not yet   |
