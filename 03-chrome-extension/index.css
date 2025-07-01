@@ -20,3 +20,21 @@ button {
   border: none;
   font-weight: bold;
 }
+
+/* STYLE THE LIST ACCORDING TO THE DESIGN */
+ul {
+  color: #5f9341;
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 5px;
+
+}
+
+li {
+  margin-top: 5px;
+  color: #5f9341;
+}
+
+a {
+  color: #5f9341;
+}
