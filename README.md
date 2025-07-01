@@ -262,7 +262,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 💾 What is `localStorage`?                                          | ✅ Done     |
 | 💾 Use `localStorage` to save values                                | ✅ Done     |
 | 🧪 Store arrays in `localStorage`                                   | ✅ Done     |
-| 💾 Save leads to `localStorage`                                     | ⬜ Not yet   |
+| 💾 Save leads to `localStorage`                                     | ✅ Done     |
 | 📥 Retrieve leads from `localStorage`                               | ⬜ Not yet   |
 | ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |
 | 🔍 Truthy vs Falsy expressions overview                             | ⬜ Not yet   |
