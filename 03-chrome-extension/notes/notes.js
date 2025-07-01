@@ -5,3 +5,8 @@
 //innerHtml we use innerHtml to render HTML tags inside javaScript
 //example documnet.getElementById("tag").innerHTML = "<tag> </tag>"
 //we can use event listeners in the DOM tag like "<tag onclick='tag()'> </tag>"
+
+//instead of innerHTML we can use createElement() and append
+//const li = document.createElement("li") //creates element
+//li.textContent = content  // display text content
+//tag.append(li) // append to DOM by id
