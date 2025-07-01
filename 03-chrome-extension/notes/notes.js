@@ -10,3 +10,6 @@
 //const li = document.createElement("li") //creates element
 //li.textContent = content  // display text content
 //tag.append(li) // append to DOM by id
+
+
+//to clear a input field we genrally set the value to a empty string .value = ""
