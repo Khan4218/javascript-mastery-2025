@@ -257,8 +257,8 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 📜 Multi-line template strings                                      | ✅ Done     |
 | 🛠️ Refactor app with template strings                               | ✅ Done     |
 | 🎨 Style `<ul>` and `<li>` list                                     | ✅ Done     |
-| 🚀 Prepare for deployment                                           | ⬜ Not yet   |
-| 🌐 Deploy Chrome Extension                                          | ⬜ Not yet   |
+| 🚀 Prepare for deployment                                           | ✅ Done     |
+| 🌐 Deploy Chrome Extension                                          | ✅ Done     |
 | 💾 What is `localStorage`?                                          | ⬜ Not yet   |
 | 💾 Use `localStorage` to save values                                | ⬜ Not yet   |
 | 🧪 Store arrays in `localStorage`                                   | ⬜ Not yet   |
