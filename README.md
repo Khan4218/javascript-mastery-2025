@@ -236,7 +236,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🎨 Style button & input tag                                         | ✅ Done     |
 | 🖱️ Make input button work with `onclick`                            | ✅ Done     |
 | 🔁 Refactor to `addEventListener`                                   | ✅ Done     |
-| ➕ Use `addEventListener()`                                         | ⬜ Not yet   |
+| ➕ Use `addEventListener()`                                         | ✅ Done     |
 | 🔄 Further event handling refactoring                               | ⬜ Not yet   |
 | 📥 Create `myLeads` array & `inputEl` variable                      | ⬜ Not yet   |
 | 🧠 Use of `let` & `const`                                           | ⬜ Not yet   |
