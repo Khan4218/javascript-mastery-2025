@@ -1,10 +1,9 @@
 let myleads = [];
-let inputEl = document.getElementById("input-el");
-
-// Push the value "www.awesomelead.com" to myArray when the input button is clicked
+let inputEl = document.getElementById("input-el")
 let inputBtn = document.getElementById("input-btn")
+
 inputBtn.addEventListener("click", function () {
-  myleads.push("www.awesomelead.com")
+  myleads.push(inputEl.value)
   console.log(myleads);
 
 })
