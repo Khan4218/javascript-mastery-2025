@@ -7,3 +7,21 @@ boxEl.addEventListener("click", function () {
   console.log("boxed opened");
 
 })
+
+
+// template strings/literals
+
+const recipient = "James"
+
+// Refactor the email string to use template strings
+// Create a new variable, sender, and set its value to your name
+const sender = "Akbar"
+// Use your sender variable instead of "Per"
+// Break the email string into multiple lines
+const email = `
+Hey ${recipient}! 
+How is it going? Cheers
+${sender}
+ `
+
+console.log(email)

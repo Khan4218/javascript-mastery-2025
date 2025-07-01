@@ -251,10 +251,10 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🔁 Create reusable `render()` function                              | ✅ Done     |
 | ❌ Clear input field                                                | ✅ Done     |
 | 🔗 Add `<a>` tag for saved links                                    | ✅ Done     |
-| 🧵 Template strings introduction                                    | ⬜ Not yet   |
-| 📝 Write a basic template string                                    | ⬜ Not yet   |
-| 🔄 Make template string dynamic                                     | ⬜ Not yet   |
-| 📜 Multi-line template strings                                      | ⬜ Not yet   |
+| 🧵 Template strings introduction                                    | ✅ Done     |
+| 📝 Write a basic template string                                    | ✅ Done     |
+| 🔄 Make template string dynamic                                     | ✅ Done     |
+| 📜 Multi-line template strings                                      | ✅ Done     |
 | 🛠️ Refactor app with template strings                               | ⬜ Not yet  |
 | 🎨 Style `<ul>` and `<li>` list                                     | ⬜ Not yet   |
 | 🚀 Prepare for deployment                                           | ⬜ Not yet   |

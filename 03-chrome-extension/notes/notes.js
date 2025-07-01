@@ -13,3 +13,5 @@
 
 
 //to clear a input field we genrally set the value to a empty string .value = ""
+
+//template literals `` are used for Multi lines and we can use variables or func using ${} 
