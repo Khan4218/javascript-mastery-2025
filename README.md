@@ -243,7 +243,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | ➕ Push input value to `myLeads`                                    | ✅ Done     |
 | 🧾 Use `for` loop to log leads                                      | ✅ Done     |
 | 📄 Create unordered list                                            | ✅ Done     |
-| 🖼️ Render leads in unordered list                                   | ⬜ Notyet   |
+| 🖼️ Render leads in unordered list                                   | ✅ Done     |
 | 🧪 Practice with `innerHTML`                                        | ⬜ Not yet   |
 | 🧪 More `innerHTML` usage                                           | ⬜ Not yet   |
 | 🧱 Use `createElement()` & `append()` instead of `innerHTML`        | ⬜ Not yet   |

@@ -12,7 +12,7 @@ inputBtn.addEventListener("click", function () {
 // Log out the items in the myLeads array using a for loop 
 
 for (let i = 0; i < myleads.length; i++) {
-  ulEl.textContent += myleads[i];
+  ulEl.innerHTML += "<li>" + myleads[i]; + "</li>"
 
 }
 
