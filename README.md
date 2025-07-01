@@ -233,7 +233,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 |----------------------------------------------------------------------|-------------|
 | 🧩 Build Chrome Extension                                           | ⬜ Notyet   |
 | 🔘 Add button & input tag                                           | ✅ Done     |
-| 🎨 Style button & input tag                                         | ⬜ Not yet   |
+| 🎨 Style button & input tag                                         | ✅ Done     |
 | 🖱️ Make input button work with `onclick`                            | ⬜ Notyet   |
 | 🔁 Refactor to `addEventListener`                                   | ⬜ Not yet   |
 | ➕ Use `addEventListener()`                                         | ⬜ Not yet   |
