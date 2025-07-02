@@ -43,3 +43,40 @@ myLeads.push("www.lindein.com")
 myLeads = JSON.stringify(myLeads)
 // 4. Console.log the string using typeof to verify that it's a string
 console.log(typeof myLeads);
+
+
+// truthy and falsy value 
+
+// const credits = 0
+
+// if (credits) {
+//     console.log("Let's play 🎰")
+// } else {
+//     console.log("Sorry, you have no credits 😭")
+// }
+
+// truthy
+// falsy
+
+// false
+// 0
+// ""
+// null -> how you as a developer signalize emptiness
+// undefined -> how JavaScript signalizes emptiness
+// NaN
+
+let currentViewers = null
+
+currentViewers = ["jane", "nick"]
+
+currentViewers = null
+
+if (currentViewers) {
+  // do something , e.g. notify the live streamers
+  console.log("we have viewers")
+}
+
+//undefined
+// let currentViewers
+
+// console.log(currentViewers)  //output undefined
