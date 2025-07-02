@@ -263,10 +263,10 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 💾 Use `localStorage` to save values                                | ✅ Done     |
 | 🧪 Store arrays in `localStorage`                                   | ✅ Done     |
 | 💾 Save leads to `localStorage`                                     | ✅ Done     |
-| 📥 Retrieve leads from `localStorage`                               | ⬜ Not yet   |
-| ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |
+| 📥 Retrieve leads from `localStorage`                               | ✅ Done     |
 | 🔍 Truthy vs Falsy expressions overview                             | ⬜ Not yet   |
 | ❓ Guessing truthy/falsy values                                     | ⬜ Not yet   |
+| ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |
 | 🧹 Add delete button                                                | ⬜ Not yet   |
 | 🧼 Make delete button functional                                    | ⬜ Not yet   |
 | 🧠 Understand how function parameters improve code                  | ⬜ Not yet   |
