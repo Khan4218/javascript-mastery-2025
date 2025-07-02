@@ -18,8 +18,23 @@ button {
   background: #5f9341;
   color: white;
   padding: 10px 20px;
-  border: none;
+  border: 1px solid #5f9341;
   font-weight: bold;
+}
+
+
+
+
+/* Style the button according to the provided design */
+
+#delete-btn {
+  background: white;
+  color: #5f9341;
+}
+
+#delete-btn:active {
+  background-color: rgb(218, 0, 0);
+  color: white;
 }
 
 /* STYLE THE LIST ACCORDING TO THE DESIGN */
