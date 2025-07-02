@@ -266,7 +266,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 📥 Retrieve leads from `localStorage`                               | ✅ Done     |
 | 🔍 Truthy vs Falsy expressions overview                             | ✅ Done     |
 | ❓ Guessing truthy/falsy values                                     | ✅ Done     |
-| ✅ Check `localStorage` before rendering                            | ⬜ Not yet   |
+| ✅ Check `localStorage` before rendering                            | ✅ Done     |
 | 🧹 Add delete button                                                | ⬜ Not yet   |
 | 🧼 Make delete button functional                                    | ⬜ Not yet   |
 | 🧠 Understand how function parameters improve code                  | ⬜ Not yet   |
