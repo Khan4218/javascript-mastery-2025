@@ -83,11 +83,21 @@
 
 
 //functions parameters practice
+// const welcomeEl = document.getElementById("welcome-el")
+
+// // Give the function a parameter, greeting, that replaces "Welcome back"
+// function greetUser(greeting) {
+//   welcomeEl.textContent = `${greeting}, Per Harald Borgen 👋`
+// }
+
+//using multiple parameters and arguments
+// greetUser("Hello")
+
 const welcomeEl = document.getElementById("welcome-el")
 
-// Give the function a parameter, greeting, that replaces "Welcome back"
-function greetUser(greeting) {
-  welcomeEl.textContent = `${greeting}, Per Harald Borgen 👋`
+function greetUser(greeting, name, emoji) {
+  // Rewrite the expression using template literals
+  welcomeEl.textContent = `${greeting}, ${name} ${emoji}`
 }
 
-greetUser("Hello")
+greetUser("Howdy", "James", "👋")

@@ -271,7 +271,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🧼 Make delete button functional                                    | ✅ Done     |
 | 🧠 Understand how function parameters improve code                  | ✅ Done     |
 | 📝 Define function with parameters                                  | ✅ Done     |
-| 🧠 Use functions with multiple parameters                           | ⬜ Not yet   |
+| 🧠 Use functions with multiple parameters                           | ✅ Done     |
 | 🔢 Pass numbers as function arguments                               | ⬜ Not yet   |
 | ⚙️ Parameters vs Arguments explained                                | ⬜ Not yet   |
 | 🧩 Pass arrays as parameters                                        | ⬜ Not yet   |
