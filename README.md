@@ -269,8 +269,8 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | ✅ Check `localStorage` before rendering                            | ✅ Done     |
 | 🧹 Add delete button                                                | ✅ Done     |
 | 🧼 Make delete button functional                                    | ✅ Done     |
-| 🧠 Understand how function parameters improve code                  | ⬜ Not yet   |
-| 📝 Define function with parameters                                  | ⬜ Not yet   |
+| 🧠 Understand how function parameters improve code                  | ✅ Done     |
+| 📝 Define function with parameters                                  | ✅ Done     |
 | 🧠 Use functions with multiple parameters                           | ⬜ Not yet   |
 | 🔢 Pass numbers as function arguments                               | ⬜ Not yet   |
 | ⚙️ Parameters vs Arguments explained                                | ⬜ Not yet   |

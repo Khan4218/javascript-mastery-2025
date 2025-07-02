@@ -25,3 +25,15 @@
 // array = JSON.stringify(array)
 // if we then want to convert it into a array we use
 // array = JSON.parse(array)
+
+
+//parameters in a function and arguments
+//so when we write a function we pass a parameter for roboust of code then when calling the function we pass an argument so the param takes the argument value 
+// function greetUser(name) {   receiving as a parameter 
+//    return `hello how are you ${name}` 
+   
+// }
+
+// greetUser("Akbar") // passing the argument 
+
+//output = hello how are you Akbar
