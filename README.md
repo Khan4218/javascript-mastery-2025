@@ -268,7 +268,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | ❓ Guessing truthy/falsy values                                     | ✅ Done     |
 | ✅ Check `localStorage` before rendering                            | ✅ Done     |
 | 🧹 Add delete button                                                | ✅ Done     |
-| 🧼 Make delete button functional                                    | ⬜ Not yet   |
+| 🧼 Make delete button functional                                    | ✅ Done     |
 | 🧠 Understand how function parameters improve code                  | ⬜ Not yet   |
 | 📝 Define function with parameters                                  | ⬜ Not yet   |
 | 🧠 Use functions with multiple parameters                           | ⬜ Not yet   |
