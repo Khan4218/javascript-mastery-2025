@@ -77,6 +77,10 @@ To become highly confident in vanilla JavaScript and build a strong foundation f
 | 🚨 Rendering error message                           | ✅ Done      |
 | 🧮 Calculator challenge                              | ✅ Done      |
 
+# Passenger Counter App
+
+This project is part of my advanced JavaScript mastery journey. Although I've already built modern web apps with React and TypeScript, I'm revisiting core JavaScript fundamentals to strengthen my foundation.
+
 ---
 
 ## 🏀 Solo Project – Basketball Counter App
@@ -231,7 +235,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 
 | 🧬 Topic                                                            | ✅ Status   |
 |----------------------------------------------------------------------|-------------|
-| 🧩 Build Chrome Extension                                           | ⬜ Notyet   |
+| 🧩 Build Chrome Extension                                           | ✅ Done     |
 | 🔘 Add button & input tag                                           | ✅ Done     |
 | 🎨 Style button & input tag                                         | ✅ Done     |
 | 🖱️ Make input button work with `onclick`                            | ✅ Done     |
@@ -283,26 +287,83 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🧾 Final recap of Chrome extension concepts                         | ⬜ Not yet   |
 | 🧠 Practice & polish extension functionality                        | ⬜ Not yet   |
 | 🎬 Outro – JavaScript project wrap-up                               | ⬜ Not yet   |
-# Passenger Counter App
 
-This project is part of my advanced JavaScript mastery journey. Although I've already built modern web apps with React and TypeScript, I'm revisiting core JavaScript fundamentals to strengthen my foundation.
+# 🔗 Lead Tracker – Chrome Extension
 
-## 💡 Purpose
+A lightweight Chrome Extension that helps you **save and track useful URLs** — perfect for job seekers, recruiters, and researchers. Instantly save a LinkedIn profile or any open tab with one click!
 
-Even small projects like this one reinforce key DOM concepts like:
+![Lead Tracker Screenshot](./03-chrome-extension/preview-images/Screenshot%202025-07-03%20191102.png) <!-- Add your screenshot file to the repo -->
 
-- `document.getElementById`
-- `innerText` manipulation
-- Event listeners and click handling
+---
 
-## 🧠 What's Different This Time
+## 🚀 Features
 
-- Writing clean, modular code
-- Naming variables meaningfully
-- Focusing on reusability and clarity
-- Practicing Git commits with intention
+- ✅ Save inputted URLs (like LinkedIn profiles)
+- ✅ One-click "Save Tab" to grab the current tab's URL
+- ✅ View all saved links in a neat popup
+- ✅ Clear all saved leads with one click
+- ✅ URLs persist using `localStorage`
 
-## 🚀 Built With
-- HTML
-- CSS
-- JavaScript (Vanilla)
+---
+
+## 📦 Tech Stack
+
+- HTML, CSS, JavaScript
+- Chrome Extension APIs (`tabs`)
+- localStorage for persistence
+- DOM Manipulation
+
+---
+
+## 🧰 How to Use
+
+### 🔧 Load into Chrome:
+
+1. Clone or [Download ZIP](https://github.com/Khan4218/javascript-mastery-2025/tree/main/03-chrome-extension)
+2. Visit: `chrome://extensions/`
+3. Enable **Developer Mode** (top right)
+4. Click **"Load Unpacked"**
+5. Select the extension folder
+6. Pin the extension and start using it!
+
+---
+
+## 🖼️ Demo
+
+Coming Soon: [Loom Walkthrough](#)
+
+Or preview from the image above ⬆️
+
+---
+
+## 📁 Folder Structure
+
+03-chrome-extension/
+│
+├── manifest.json # Extension metadata
+├── popup.html # Main UI
+├── popup.js # Functionality for saving, loading, and clearing URLs
+├── style.css # Styling for the popup
+├── icon.png # Extension icon
+└── screenshot.png # UI preview (add yours)
+
+
+---
+
+## 🤖 Author
+
+**Mir Akbar Ali Khan**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mir-akbar-ali-khan-a6b26435a)  
+📧 mirakber4@gmail.com  
+🌐 [Portfolio](https://mir-akbar-portfolio-react-v2.netlify.app)
+
+---
+
+## 📌 License
+
+This project is licensed under the MIT License — feel free to use and modify it!
+
+---
+
+### 💬 Want to contribute or suggest improvements?
+Open an issue or submit a pull request!
