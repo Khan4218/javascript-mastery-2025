@@ -9,12 +9,18 @@ const tabBTn = document.getElementById("tab-btn")
 const leadsFromLocalStorage = JSON.parse(localStorage.getItem("myLeads"))
 
 const tabs = [
-  { url: "https://www.linkedin.com/in/per-harald-borgen/" }
+  {
+    url: "https://www.linkedin.com/in/per-harald-borgen/"
+  }
 ]
 
 // 2. Listen for clicks on tabBtn. Log Per's LinkedIn URL to the console
 tabBTn.addEventListener("click", function () {
-  console.log(tabs[0].url);
+
+  myLeads.push(tabs[0].url)
+  localStorage.setItem("myLeads", JSON.stringify(myLeads))
+  render(myLeads)
+  // console.log(tabs[0].url);
 
 })
 
