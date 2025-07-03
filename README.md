@@ -283,7 +283,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🔘 Create `tabBtn` for saving current tab                           | ✅ Done     |
 | 🌐 Save current tab’s URL                                           | ✅ Done     |
 | 🧪 Use Chrome API to access tab data                                | ✅ Done     |
-| 🚀 Deploy final extension version                                   | ⬜ Not yet   |
+| 🚀 Deploy final extension version                                   | ✅ Done     |
 | 🧾 Final recap of Chrome extension concepts                         | ⬜ Not yet   |
 | 🧠 Practice & polish extension functionality                        | ⬜ Not yet   |
 | 🎬 Outro – JavaScript project wrap-up                               | ⬜ Not yet   |
