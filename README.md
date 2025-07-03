@@ -272,7 +272,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🧠 Understand how function parameters improve code                  | ✅ Done     |
 | 📝 Define function with parameters                                  | ✅ Done     |
 | 🧠 Use functions with multiple parameters                           | ✅ Done     |
-| 🔢 Pass numbers as function arguments                               | ⬜ Not yet   |
+| 🔢 Pass numbers as function arguments                               | ✅ Done     |
 | ⚙️ Parameters vs Arguments explained                                | ⬜ Not yet   |
 | 🧩 Pass arrays as parameters                                        | ⬜ Not yet   |
 | 🔁 Refactor `renderLeads()` with parameter                          | ⬜ Not yet   |

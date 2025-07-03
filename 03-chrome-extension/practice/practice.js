@@ -93,11 +93,23 @@
 //using multiple parameters and arguments
 // greetUser("Hello")
 
-const welcomeEl = document.getElementById("welcome-el")
+// const welcomeEl = document.getElementById("welcome-el")
 
-function greetUser(greeting, name, emoji) {
-  // Rewrite the expression using template literals
-  welcomeEl.textContent = `${greeting}, ${name} ${emoji}`
+// function greetUser(greeting, name, emoji) {
+//   // Rewrite the expression using template literals
+//   welcomeEl.textContent = `${greeting}, ${name} ${emoji}`
+// }
+
+// greetUser("Howdy", "James", "👋")
+
+
+//practice parameters with numbers 
+
+// Create a function, add(), that adds two numbers together and returns the sum
+
+function add(num1, num2) {
+  return num1 + num2;
 }
 
-greetUser("Howdy", "James", "👋")
+console.log(add(3, 4)) // should log 7
+console.log(add(9, 102)) // should log 111
