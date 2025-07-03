@@ -278,7 +278,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🔁 Refactor `renderLeads()` with parameter                          | ✅ Done     |
 | 🔘 Create `tabBtn` for saving current tab                           | ✅ Done     |
 | 🌐 Save current tab’s URL                                           | ✅ Done     |
-| 🧪 Use Chrome API to access tab data                                | ⬜ Not yet   |
+| 🧪 Use Chrome API to access tab data                                | ✅ Done     |
 | 🚀 Deploy final extension version                                   | ⬜ Not yet   |
 | 🧾 Final recap of Chrome extension concepts                         | ⬜ Not yet   |
 | 🧠 Practice & polish extension functionality                        | ⬜ Not yet   |

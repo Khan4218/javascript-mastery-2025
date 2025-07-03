@@ -8,24 +8,19 @@ const tabBTn = document.getElementById("tab-btn")
 
 const leadsFromLocalStorage = JSON.parse(localStorage.getItem("myLeads"))
 
-const tabs = [
-  {
-    url: "https://www.linkedin.com/in/per-harald-borgen/"
-  }
-]
 
 // 2. Listen for clicks on tabBtn. Log Per's LinkedIn URL to the console
 tabBTn.addEventListener("click", function () {
+  // chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+  // })
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-    // since only one tab should be active and in the current window at once
-    // the return variable should only have one entry
-    let activeTab = tabs[0]
-    let activeTabId = activeTab.id // or do whatever you need
+    myLeads.push(tabs[0].url)
+    localStorage.setItem("myLeads", JSON.stringify(myLeads))
+    render(myLeads)
+    // console.log(tabs[0].url);
+
   })
-  myLeads.push(tabs[0].url)
-  localStorage.setItem("myLeads", JSON.stringify(myLeads))
-  render(myLeads)
-  // console.log(tabs[0].url);
+
 
 })
 
