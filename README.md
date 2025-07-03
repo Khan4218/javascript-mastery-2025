@@ -273,8 +273,8 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 📝 Define function with parameters                                  | ✅ Done     |
 | 🧠 Use functions with multiple parameters                           | ✅ Done     |
 | 🔢 Pass numbers as function arguments                               | ✅ Done     |
-| ⚙️ Parameters vs Arguments explained                                | ⬜ Not yet   |
-| 🧩 Pass arrays as parameters                                        | ⬜ Not yet   |
+| ⚙️ Parameters vs Arguments explained                                | ✅ Done     |
+| 🧩 Pass arrays as parameters                                        | ✅ Done     |
 | 🔁 Refactor `renderLeads()` with parameter                          | ⬜ Not yet   |
 | 🔘 Create `tabBtn` for saving current tab                           | ⬜ Not yet   |
 | 🌐 Save current tab’s URL                                           | ⬜ Not yet   |

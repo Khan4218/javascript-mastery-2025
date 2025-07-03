@@ -34,3 +34,16 @@ console.log(Boolean(100)) // true
 console.log(Boolean(null)) // false
 console.log(Boolean([0])) // true
 console.log(Boolean(-0)) // false
+
+
+//parameters passing as an array challenge 
+
+// Create a function, getFirst(arr), that returns the first item in the array
+function getFirst(arr) {
+  return arr[0];
+}
+
+let arr1 = ["my", "name", "is", "khan"]
+console.log(getFirst(arr1));
+
+// Call it with an array as an argument to verify that it works
