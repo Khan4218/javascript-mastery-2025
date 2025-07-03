@@ -4,8 +4,20 @@ const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
 const deleteEl = document.getElementById("delete-btn")
+const tabBTn = document.getElementById("tab-btn")
 
 const leadsFromLocalStorage = JSON.parse(localStorage.getItem("myLeads"))
+
+const tabs = [
+  { url: "https://www.linkedin.com/in/per-harald-borgen/" }
+]
+
+// 2. Listen for clicks on tabBtn. Log Per's LinkedIn URL to the console
+tabBTn.addEventListener("click", function () {
+  console.log(tabs[0].url);
+
+})
+
 
 function render(leads) {
   let listItems = "";
