@@ -284,9 +284,9 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 | 🌐 Save current tab’s URL                                           | ✅ Done     |
 | 🧪 Use Chrome API to access tab data                                | ✅ Done     |
 | 🚀 Deploy final extension version                                   | ✅ Done     |
-| 🧾 Final recap of Chrome extension concepts                         | ⬜ Not yet   |
-| 🧠 Practice & polish extension functionality                        | ⬜ Not yet   |
-| 🎬 Outro – JavaScript project wrap-up                               | ⬜ Not yet   |
+| 🧾 Final recap of Chrome extension concepts                         | ✅ Done     |
+| 🧠 Practice & polish extension functionality                        | ✅ Done     |
+| 🎬 Outro – JavaScript project wrap-up                               | ✅ Done     |
 
 # 🔗 Lead Tracker – Chrome Extension
 
