@@ -1,0 +1,18 @@
+📘 Topic 1: this in JavaScript
+🧠 What is this?
+In JavaScript, this refers to the object that is calling the function.
+
+It can change depending on how the function is called — not where it's defined.
+
+🧠 Summary Table
+
+| Call Style                                | `this` refers to                     |
+| ----------------------------------------- | ------------------------------------ |
+| `obj.method()`                            | The object                           |
+| Regular function (non-strict)             | `window` (global)                    |
+| Regular function (strict)                 | `undefined`                          |
+| Arrow function                            | Lexical scope (where it was defined) |
+| Detached method (`const fn = obj.method`) | `undefined` / `window`               |
+| Bound function (`.bind(obj)`)             | The bound object                     |
+| DOM event listener (regular)              | The element                          |
+| DOM event listener (arrow)                | Outer scope                          |
