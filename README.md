@@ -55,7 +55,7 @@ _Last updated: July 03, 2025_
 - [✅] Array method: `map()`
 - [✅] Array method: `filter()`
 - [✅] Array method: `reduce()`
-- [ ] Array method: `forEach()`
+- [✅] Array method: `forEach()`
 - [ ] Spread operator (`...`)
 - [ ] Destructuring
 - [ ] Ternary operator (`? :`)
