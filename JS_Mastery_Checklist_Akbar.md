@@ -18,7 +18,7 @@ _Last updated: July 03, 2025_
 - [x] `this` keyword
 - [x] Arrow functions (`=>`)
 - [x] Callback functions
-- [ ] Higher-order functions
+- [x] Higher-order functions
 - [ ] Array method: `map()`
 - [ ] Array method: `filter()`
 - [ ] Array method: `reduce()`
