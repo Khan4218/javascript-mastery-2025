@@ -17,7 +17,7 @@ _Last updated: July 03, 2025_
 ## 🔹 Phase 2: Intermediate JavaScript
 - [x] `this` keyword
 - [x] Arrow functions (`=>`)
-- [ ] Callback functions
+- [x] Callback functions
 - [ ] Higher-order functions
 - [ ] Array method: `map()`
 - [ ] Array method: `filter()`
