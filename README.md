@@ -54,7 +54,7 @@ _Last updated: July 03, 2025_
 - [✅] Higher-order functions
 - [✅] Array method: `map()`
 - [✅] Array method: `filter()`
-- [ ] Array method: `reduce()`
+- [✅] Array method: `reduce()`
 - [ ] Array method: `forEach()`
 - [ ] Spread operator (`...`)
 - [ ] Destructuring

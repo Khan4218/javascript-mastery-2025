@@ -20,8 +20,8 @@ _Last updated: July 03, 2025_
 - [x] Callback functions
 - [x] Higher-order functions
 - [x] Array method: `map()`
-- [ ] Array method: `filter()`
-- [ ] Array method: `reduce()`
+- [X] Array method: `filter()`
+- [X] Array method: `reduce()`
 - [ ] Array method: `forEach()`
 - [ ] Spread operator (`...`)
 - [ ] Destructuring
