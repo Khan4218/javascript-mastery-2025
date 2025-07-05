@@ -19,7 +19,7 @@ _Last updated: July 03, 2025_
 - [x] Arrow functions (`=>`)
 - [x] Callback functions
 - [x] Higher-order functions
-- [ ] Array method: `map()`
+- [x] Array method: `map()`
 - [ ] Array method: `filter()`
 - [ ] Array method: `reduce()`
 - [ ] Array method: `forEach()`
