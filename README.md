@@ -59,7 +59,7 @@ _Last updated: July 03, 2025_
 - [✅] Spread operator (`...`)
 - [✅] Destructuring
 - [✅] Ternary operator (`? :`)
-- [ ] Optional chaining (`?.`)
+- [✅] Optional chaining (`?.`)
 - [ ] Nullish coalescing operator (`??`)
 
 ## 🔸 Phase 3: Asynchronous JavaScript
