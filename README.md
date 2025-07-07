@@ -165,7 +165,7 @@ solo-project/
 
 ### 📸 Preview
 
-![Screenshot of Basketball Counter App](./01-passenger-counter-app/Preview-images/preview-image.png)
+![Screenshot of Basketball Counter App](./Core-JavaScript/01-passenger-counter-app/Preview-images/preview-image.png)
 🔗 Live Demo: [akba-passenger-counter-app.netlify.app](https://akba-passenger-counter-app.netlify.app)
 
 ---
@@ -278,13 +278,13 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 
 ### 📸 Preview
 
-![Screenshot of Black JAck GAme App](./02.build-a-black-jack-app/preview-images/Black-jack.png)
+![Screenshot of Black JAck GAme App](./Core-JavaScript/02.build-a-black-jack-app/preview-images/Black-jack.png)
 🔗 Live Demo: [black-jack-game-akbar.netlify.app](https://black-jack-game-akbar.netlify.app/)
 
 
-![Screenshot of Emoji Fighter App](./02.build-a-black-jack-app/preview-images/Emoji-fighter.png)
+![Screenshot of Emoji Fighter App](./Core-JavaScript/02.build-a-black-jack-app/preview-images/Emoji-fighter.png)
 
-![Screenshot of Sorting Fruits App](./02.build-a-black-jack-app/preview-images/sorting-fruits.png)
+![Screenshot of Sorting Fruits App](./Core-JavaScript/02.build-a-black-jack-app/preview-images/sorting-fruits.png)
 
 
 💻 Chrome Extension Project
@@ -350,8 +350,7 @@ Additionally, I got hands-on with **objects**, using them to store player data a
 
 A lightweight Chrome Extension that helps you **save and track useful URLs** — perfect for job seekers, recruiters, and researchers. Instantly save a LinkedIn profile or any open tab with one click!
 
-![Lead Tracker Screenshot](./03-chrome-extension/preview-images/Screenshot%202025-07-03%20191102.png) <!-- Add your screenshot file to the repo -->
-
+![Lead Tracker Screenshot](./Core-JavaScript/03-chrome-extension/preview-images/Screenshot%202025-07-03%20191102.png) 
 ---
 
 ## 🚀 Features
