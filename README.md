@@ -58,7 +58,7 @@ _Last updated: July 03, 2025_
 - [✅] Array method: `forEach()`
 - [✅] Spread operator (`...`)
 - [✅] Destructuring
-- [ ] Ternary operator (`? :`)
+- [✅] Ternary operator (`? :`)
 - [ ] Optional chaining (`?.`)
 - [ ] Nullish coalescing operator (`??`)
 
