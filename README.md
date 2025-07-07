@@ -60,7 +60,7 @@ _Last updated: July 03, 2025_
 - [✅] Destructuring
 - [✅] Ternary operator (`? :`)
 - [✅] Optional chaining (`?.`)
-- [ ] Nullish coalescing operator (`??`)
+- [✅] Nullish coalescing operator (`??`)
 
 ## 🔸 Phase 3: Asynchronous JavaScript
 - [ ] `setTimeout`, `setInterval`
