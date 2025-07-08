@@ -72,7 +72,7 @@ You’ve successfully revised:
 - Real-world logic using quiz + hands-on challenges
 
 ## 🔸 Phase 3: Asynchronous JavaScript
-- [ ] `setTimeout`, `setInterval`
+- [✅] `setTimeout`, `setInterval`
 - [ ] Promises
 - [ ] `fetch()` API
 - [ ] `async` / `await`
