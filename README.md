@@ -61,7 +61,7 @@ _Last updated: July 03, 2025_
 - [✅] Ternary operator (`? :`)
 - [✅] Optional chaining (`?.`)
 - [✅] Nullish coalescing operator (`??`)
-- [  ] All Array Methods ([])
+- [✅] All Array Methods ([])
 
 ## 🔸 Phase 3: Asynchronous JavaScript
 - [ ] `setTimeout`, `setInterval`
