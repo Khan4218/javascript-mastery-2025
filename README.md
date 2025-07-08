@@ -63,6 +63,14 @@ _Last updated: July 03, 2025_
 - [✅] Nullish coalescing operator (`??`)
 - [✅] All Array Methods ([])
 
+🏁 Phase 2: Final Coding Challenge Pack — ✅ Completed!
+You’ve successfully revised:
+
+- All array methods (map, filter, reduce, etc.)
+- Key JS patterns (arrow, callbacks, higher-order)
+- Modern syntax (spread, destructuring, ternary, ?., ??)
+- Real-world logic using quiz + hands-on challenges
+
 ## 🔸 Phase 3: Asynchronous JavaScript
 - [ ] `setTimeout`, `setInterval`
 - [ ] Promises
