@@ -73,7 +73,7 @@ You’ve successfully revised:
 
 ## 🔸 Phase 3: Asynchronous JavaScript
 - [✅] `setTimeout`, `setInterval`
-- [ ] Promises
+- [✅] Promises
 - [ ] `fetch()` API
 - [ ] `async` / `await`
 - [ ] `try/catch` blocks
