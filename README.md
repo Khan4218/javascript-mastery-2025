@@ -77,7 +77,7 @@ You’ve successfully revised:
 - [✅] `fetch()` API
 - [✅] `async` / `await`
 - [✅] `try/catch` blocks
-- [ ] Chaining Promises (`.then().catch()`)
+- [✅] Chaining Promises (`.then().catch()`)
 - [ ] Build: Weather App with `fetch()`
 
 ## 🔹 Phase 4: Advanced Patterns & Tooling
