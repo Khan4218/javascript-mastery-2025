@@ -75,7 +75,7 @@ You’ve successfully revised:
 - [✅] `setTimeout`, `setInterval`
 - [✅] Promises
 - [✅] `fetch()` API
-- [ ] `async` / `await`
+- [✅] `async` / `await`
 - [ ] `try/catch` blocks
 - [ ] Chaining Promises (`.then().catch()`)
 - [ ] Build: Weather App with `fetch()`
