@@ -80,6 +80,15 @@ You’ve successfully revised:
 - [✅] Chaining Promises (`.then().catch()`)
 - [✅] Build: Weather App with `fetch()`
 
+🏁 Phase 3: Final Coding Challenge Pack — ✅ Completed!
+You’ve successfully revised:
+setTimeout / setInterval
+Promises
+fetch API
+async/await
+try/catch
+Promise chaining
+
 ## 🔹 Phase 4: Advanced Patterns & Tooling
 - [ ] JavaScript Modules (ESM)
 - [ ] `import` / `export`
