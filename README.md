@@ -90,7 +90,7 @@ try/catch
 Promise chaining
 
 ## 🔹 Phase 4: Advanced Patterns & Tooling
-- [ ] JavaScript Modules (ESM)
+- [✅] JavaScript Modules (ESM)
 - [ ] `import` / `export`
 - [ ] Closures
 - [ ] IIFE (Immediately Invoked Function Expression)
