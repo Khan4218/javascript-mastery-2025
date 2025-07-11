@@ -78,7 +78,7 @@ You’ve successfully revised:
 - [✅] `async` / `await`
 - [✅] `try/catch` blocks
 - [✅] Chaining Promises (`.then().catch()`)
-- [ ] Build: Weather App with `fetch()`
+- [✅] Build: Weather App with `fetch()`
 
 ## 🔹 Phase 4: Advanced Patterns & Tooling
 - [ ] JavaScript Modules (ESM)
