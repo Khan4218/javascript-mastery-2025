@@ -91,7 +91,7 @@ Promise chaining
 
 ## 🔹 Phase 4: Advanced Patterns & Tooling
 - [✅] JavaScript Modules (ESM)
-- [ ] `import` / `export`
+- [✅] `import` / `export`
 - [ ] Closures
 - [ ] IIFE (Immediately Invoked Function Expression)
 - [ ] Debouncing & throttling
