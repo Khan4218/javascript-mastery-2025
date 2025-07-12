@@ -93,7 +93,7 @@ Promise chaining
 - [✅] JavaScript Modules (ESM)
 - [✅] `import` / `export`
 - [✅] Closures
-- [ ] IIFE (Immediately Invoked Function Expression)
+- [✅] IIFE (Immediately Invoked Function Expression)
 - [ ] Debouncing & throttling
 - [ ] Memoization
 - [ ] Event delegation
