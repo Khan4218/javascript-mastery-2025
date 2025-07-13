@@ -95,7 +95,7 @@ Promise chaining
 - [✅] Closures
 - [✅] IIFE (Immediately Invoked Function Expression)
 - [✅] Debouncing & throttling
-- [ ] Memoization
+- [✅] Memoization
 - [ ] Event delegation
 
 ## 🎯 Phase 5: Final Project & Mastery
