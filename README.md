@@ -94,7 +94,7 @@ Promise chaining
 - [✅] `import` / `export`
 - [✅] Closures
 - [✅] IIFE (Immediately Invoked Function Expression)
-- [ ] Debouncing & throttling
+- [✅] Debouncing & throttling
 - [ ] Memoization
 - [ ] Event delegation
 
