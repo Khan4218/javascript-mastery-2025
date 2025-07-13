@@ -96,7 +96,7 @@ Promise chaining
 - [✅] IIFE (Immediately Invoked Function Expression)
 - [✅] Debouncing & throttling
 - [✅] Memoization
-- [ ] Event delegation
+- [✅] Event delegation
 
 ## 🎯 Phase 5: Final Project & Mastery
 - [ ] Build a small real-world project per major concept
